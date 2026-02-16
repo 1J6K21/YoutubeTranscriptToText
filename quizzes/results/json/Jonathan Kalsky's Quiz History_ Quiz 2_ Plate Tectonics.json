@@ -1,0 +1,393 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "6824",
+        "question_type": "multiple_choice_question",
+        "question_text": "Where in the ocean does oceanic lithosphere sink into the mantle?",
+        "answers": [
+            {
+                "text": "at fracture zones -> ",
+                "match_pair": "at fracture zones -> "
+            },
+            {
+                "text": "at continental shelves -> ",
+                "match_pair": "at continental shelves -> "
+            },
+            {
+                "is_selected": true,
+                "text": "at ocean trenches -> ",
+                "match_pair": "at ocean trenches -> "
+            },
+            {
+                "text": "at abyssal plains -> ",
+                "match_pair": "at abyssal plains -> "
+            },
+            {
+                "text": "at mid-ocean ridges -> ",
+                "match_pair": "at mid-ocean ridges -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "4204",
+        "question_type": "multiple_choice_question",
+        "question_text": "Using the map below, which of these locations is located on a divergent plate boundary?",
+        "answers": [
+            {
+                "text": "Hawaii -> ",
+                "match_pair": "Hawaii -> "
+            },
+            {
+                "text": "Chile -> ",
+                "match_pair": "Chile -> "
+            },
+            {
+                "text": "Japan -> ",
+                "match_pair": "Japan -> "
+            },
+            {
+                "is_selected": true,
+                "text": "Iceland -> ",
+                "match_pair": "Iceland -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "6683",
+        "question_type": "multiple_choice_question",
+        "question_text": "Use the map of G P S velocities below and indicate which of the following plates is moving the slowest.(hint: the size of the arrows are correlated with the speed of the plate. For example: big arrow = fast)",
+        "answers": [
+            {
+                "text": "Caribbean -> ",
+                "match_pair": "Caribbean -> "
+            },
+            {
+                "text": "Australian-Indian -> ",
+                "match_pair": "Australian-Indian -> "
+            },
+            {
+                "text": "Nazca -> ",
+                "match_pair": "Nazca -> "
+            },
+            {
+                "is_selected": true,
+                "text": "North American -> ",
+                "match_pair": "North American -> "
+            },
+            {
+                "text": "African -> ",
+                "match_pair": "African -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "5257",
+        "question_type": "multiple_choice_question",
+        "question_text": "To what type of feature is the arrow below pointing to on this Google Earth image?",
+        "answers": [
+            {
+                "text": "a seamount chain -> ",
+                "match_pair": "a seamount chain -> "
+            },
+            {
+                "text": "a hot-spot track -> ",
+                "match_pair": "a hot-spot track -> "
+            },
+            {
+                "is_selected": true,
+                "text": "an oceanic trench -> ",
+                "match_pair": "an oceanic trench -> "
+            },
+            {
+                "text": "Earth's core (seriously don't pick this one) -> ",
+                "match_pair": "Earth's core (seriously don't pick this one) -> "
+            },
+            {
+                "text": "a mountain chain -> ",
+                "match_pair": "a mountain chain -> "
+            },
+            {
+                "text": "a mid-ocean ridge -> ",
+                "match_pair": "a mid-ocean ridge -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "2879",
+        "question_type": "multiple_choice_question",
+        "question_text": "Why can\u2019t scientists retrieve information about the Atlantic Ocean basin that is older than roughly 200 million years?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "Sediments of that age are too deeply buried. -> ",
+                "match_pair": "Sediments of that age are too deeply buried. -> "
+            },
+            {
+                "text": "Sediments of that age do not provide much information. -> ",
+                "match_pair": "Sediments of that age do not provide much information. -> "
+            },
+            {
+                "text": "Seawater has affected the sediments for too long. -> ",
+                "match_pair": "Seawater has affected the sediments for too long. -> "
+            },
+            {
+                "text": "There was no Atlantic Ocean 200 million years ago. -> ",
+                "match_pair": "There was no Atlantic Ocean 200 million years ago. -> "
+            },
+            {
+                "text": "The technology is not yet available. -> ",
+                "match_pair": "The technology is not yet available. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "6377",
+        "question_type": "multiple_answers_question",
+        "question_text": "______ is a feature of a divergent plate boundary. (select all that apply)",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "An ocean ridge -> Your Answer: (You left this blank)",
+                "match_pair": "An ocean ridge -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "A rift valley -> Your Answer: (You left this blank)",
+                "match_pair": "A rift valley -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "A subduction zone -> ",
+                "match_pair": "A subduction zone -> "
+            },
+            {
+                "text": "A volcanic arc -> ",
+                "match_pair": "A volcanic arc -> "
+            },
+            {
+                "text": "A deep-ocean trench -> ",
+                "match_pair": "A deep-ocean trench -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "3529",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Continental crust is mainly composed of granite/granodiorite , whereas oceanic crust is mainly composed of basalt .",
+        "answers": [
+            {
+                "text": "peridotite -> ",
+                "match_pair": "peridotite -> "
+            },
+            {
+                "text": "basalt -> ",
+                "match_pair": "basalt -> "
+            },
+            {
+                "is_selected": true,
+                "text": "granite/granodiorite -> ",
+                "match_pair": "granite/granodiorite -> "
+            },
+            {
+                "text": "quartz -> ",
+                "match_pair": "quartz -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "1820",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The angle difference between magnetic north and true north is called declination . Inclination is the angle of a magnetic needle or magnetic mineral relative to the Earth's surface and tells us the latitude at which a magnetic mineral formed or at which the compass needle is currently located.",
+        "answers": [
+            {
+                "text": "inclination -> ",
+                "match_pair": "inclination -> "
+            },
+            {
+                "is_selected": true,
+                "text": "declination -> ",
+                "match_pair": "declination -> "
+            },
+            {
+                "text": "intuition -> ",
+                "match_pair": "intuition -> "
+            },
+            {
+                "text": "delineation -> ",
+                "match_pair": "delineation -> "
+            },
+            {
+                "text": "Declination -> ",
+                "match_pair": "Declination -> "
+            },
+            {
+                "text": "Delineation -> ",
+                "match_pair": "Delineation -> "
+            },
+            {
+                "is_selected": true,
+                "text": "Inclination -> ",
+                "match_pair": "Inclination -> "
+            },
+            {
+                "text": "Intuition -> ",
+                "match_pair": "Intuition -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "3132",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The major difference between oceanic-oceanic convergence and oceanic-continental convergence is that: oceanic-oceanic convergence produces [ Select ] [\"a continental volcanic arc\", \"a trench\", \"a volcanic island arc\", \"a mountain belt\"] and oceanic-continental convergence produces [ Select ] [\"a volcanic island arc\", \"a continental volcanic arc\", \"a mountain belt\", \"a trench\"] .",
+        "dropdown_options": [
+            [
+                "a continental volcanic arc",
+                "a trench",
+                "a volcanic island arc",
+                "a mountain belt"
+            ],
+            [
+                "a volcanic island arc",
+                "a continental volcanic arc",
+                "a mountain belt",
+                "a trench"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "a continental volcanic arc -> ",
+                "match_pair": "a continental volcanic arc -> "
+            },
+            {
+                "text": "a trench -> ",
+                "match_pair": "a trench -> "
+            },
+            {
+                "is_selected": true,
+                "text": "a volcanic island arc -> ",
+                "match_pair": "a volcanic island arc -> "
+            },
+            {
+                "text": "a mountain belt -> ",
+                "match_pair": "a mountain belt -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "6554",
+        "question_type": "matching_question",
+        "question_text": "Match the following geologic features on Earth with their tectonic boundary. You will not use all boundaries.",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "The Himalayas -> continent-continent convergence",
+                "match_pair": "The Himalayas -> continent-continent convergence"
+            },
+            {
+                "is_selected": true,
+                "text": "Cascade Mountains -> continent\u2013ocean convergence",
+                "match_pair": "Cascade Mountains -> continent\u2013ocean convergence"
+            },
+            {
+                "is_selected": true,
+                "text": "Mt. Kilimanjaro, East Africa -> continental rift",
+                "match_pair": "Mt. Kilimanjaro, East Africa -> continental rift"
+            },
+            {
+                "is_selected": true,
+                "text": "San Andreas fault -> transform",
+                "match_pair": "San Andreas fault -> transform"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "6676",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "When Earth's magnetic field reverses polarity, it is recorded in [ Select ] [\"fossils\", \"volcanoes\", \"oceanic crust\"] formed at that time. Paleomagnetic researchers of the find fairly [ Select ] [\"symmetric\", \"indistinguishable\", \"asymmetric\"] patterns of alternating magnetism that parallel [ Select ] [\"oceanic trenches\", \"mid-ocean ridges\", \"mountain belts\"] . Such a pattern forms when an older crust is carried away in an opposite directions by [ Select ] [\"continental drift\", \"sea-floor spreading\", \"aliens\"] .",
+        "dropdown_options": [
+            [
+                "fossils",
+                "volcanoes",
+                "oceanic crust"
+            ],
+            [
+                "symmetric",
+                "indistinguishable",
+                "asymmetric"
+            ],
+            [
+                "oceanic trenches",
+                "mid-ocean ridges",
+                "mountain belts"
+            ],
+            [
+                "continental drift",
+                "sea-floor spreading",
+                "aliens"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "fossils -> ",
+                "match_pair": "fossils -> "
+            },
+            {
+                "text": "volcanoes -> ",
+                "match_pair": "volcanoes -> "
+            },
+            {
+                "is_selected": true,
+                "text": "oceanic crust -> ",
+                "match_pair": "oceanic crust -> "
+            },
+            {
+                "is_selected": true,
+                "text": "symmetric -> ",
+                "match_pair": "symmetric -> "
+            },
+            {
+                "text": "indistinguishable -> ",
+                "match_pair": "indistinguishable -> "
+            },
+            {
+                "text": "asymmetric -> ",
+                "match_pair": "asymmetric -> "
+            },
+            {
+                "text": "oceanic trenches -> ",
+                "match_pair": "oceanic trenches -> "
+            },
+            {
+                "is_selected": true,
+                "text": "mid-ocean ridges -> ",
+                "match_pair": "mid-ocean ridges -> "
+            },
+            {
+                "text": "mountain belts -> ",
+                "match_pair": "mountain belts -> "
+            },
+            {
+                "text": "continental drift -> ",
+                "match_pair": "continental drift -> "
+            },
+            {
+                "is_selected": true,
+                "text": "sea-floor spreading -> ",
+                "match_pair": "sea-floor spreading -> "
+            },
+            {
+                "text": "aliens -> ",
+                "match_pair": "aliens -> "
+            }
+        ]
+    }
+]

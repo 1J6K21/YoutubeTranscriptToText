@@ -1,0 +1,134 @@
+Question 1: The volcanic islands in the above figure were created as the tectonic plate passed over a hot spot in the mantle. Based on the ages of the volcanic islands, in what direction was the tectonic plate moving toward?
+Type: multiple_choice_question
+Answers:
+  [ ] north -> 
+  [ ] south -> 
+  [ ] west -> 
+  [x] (Selected) east -> 
+
+----------------------------------------
+
+Question 2: Based on the hazard map of Mt. Rainier below, which of the following volcanic hazards has the furthest reaching effects (meaning, which hazard will affect people the greatest distance from the volcano)?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) lahars -> 
+  [ ] pyroclastic flows -> 
+  [ ] volcanic gasses -> 
+  [ ] lava flows -> 
+
+----------------------------------------
+
+Question 3: Continental rifts produce magma that is formed by [ Select ] ["volatile", "decompression", "heat transfer"] melting in the mantle with felsic magmas produced by [ Select ] ["partial melting of continental crust", "partial melting and fractionation of the mantle", "partial melting of the mantle"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - volatile, decompression, heat transfer
+  - partial melting of continental crust, partial melting and fractionation of the mantle, partial melting of the mantle
+Answers:
+  [ ] volatile -> 
+  [x] (Selected) decompression -> 
+  [ ] heat transfer -> 
+  [x] (Selected) partial melting of continental crust -> 
+  [ ] partial melting and fractionation of the mantle -> 
+  [ ] partial melting of the mantle -> 
+
+----------------------------------------
+
+Question 4: Mauna Loa on Hawaii is an example of:
+Type: multiple_choice_question
+Answers:
+  [ ] a cinder cone -> 
+  [ ] a lava dome -> 
+  [x] (Selected) a shield volcano -> 
+  [ ] a stratovolcano -> 
+
+----------------------------------------
+
+Question 5: In the Mastering Geology assignment this week, we learned about Flood Basalts. One example was the Columbia River Flood Basalt Province. Which of the following are true about these flood basalts? (Select all that apply)
+Type: multiple_answers_question
+Answers:
+  [ ] These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> 
+  [x] (Selected) Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank)
+  [x] (Selected) The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank)
+  [ ] These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> 
+  [x] (Selected) The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank)
+
+----------------------------------------
+
+Question 6: Are rhyolite eruptions always explosive?
+Type: multiple_choice_question
+Answers:
+  [ ] Yes, their high viscosity and high volatile content means they will always explode. -> 
+  [ ] No, they are never explosive. -> 
+  [ ] Yes, even when an eruption starts off effusive, it will always eventually explode due to a build up of pressure. -> 
+  [x] (Selected) No, sometimes they produce lava domes that erupt very slowly over many years. -> 
+
+----------------------------------------
+
+Question 7: At which tectonic setting so most volcanoes exist?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) convergent-subduction -> 
+  [ ] convergent-collision -> 
+  [ ] divergent -> 
+  [ ] hot spot -> 
+  [ ] transform -> 
+
+----------------------------------------
+
+Question 8: True or False. Landslides can cause volcanic eruptions even in extinct volcanoes.
+Type: multiple_choice_question
+Answers:
+  [ ] True -> 
+  [x] (Selected) False -> 
+
+----------------------------------------
+
+Question 9: In which of the following lava types would you expect to see the development of pahoehoe?
+Type: multiple_choice_question
+Answers:
+  [ ] rhyolite -> 
+  [x] (Selected) basalt -> 
+  [ ] andesite -> 
+
+----------------------------------------
+
+Question 10: The main difference between lavas that form pahoehoe texture and lavas that form a'a' texture is:
+Type: multiple_choice_question
+Answers:
+  [ ] gas content -> 
+  [ ] composition -> 
+  [x] (Selected) temperature -> 
+  [ ] tectonic setting -> 
+
+----------------------------------------
+
+Question 11: Identify the FALSE statement about volcanic gas hazards.
+Type: multiple_choice_question
+Answers:
+  [ ] Sulfur volcanic gasses smell like rotten eggs, but that smell can disappear at high concentrations making if difficult to know if you are being exposed. -> 
+  [x] (Selected) All volcanic gasses are toxic to people living near volcanoes. -> 
+  [ ] Carbon dioxide gas is more dense than air. -> 
+  [ ] Volcanic gasses can combine in the atmosphere to cause climate change. -> 
+
+----------------------------------------
+
+Question 12: For each of the tectonic settings listed below, choose the most likely form of melting you would expect to see.
+Type: matching_question
+Answers:
+  [x] (Selected) mid-ocean ridge -> volatile melting
+  [x] (Selected) felsic magma in a continental rift -> decompression melting
+  [x] (Selected) oceanic hot spot -> heat-transfer melting
+  [x] (Selected) subduction zone -> volatile melting
+  [x] (Selected) continent-continent collision -> no melting
+
+----------------------------------------
+
+Question 13: Match each of the following ocean features with their tectonic setting.
+Type: matching_question
+Answers:
+  [x] (Selected) seamounts -> hot spots
+  [x] (Selected) island arcs -> subduction zone
+  [x] (Selected) mid-ocean ridge -> divergent plate boundary
+
+----------------------------------------
+

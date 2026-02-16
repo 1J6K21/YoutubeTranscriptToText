@@ -1,0 +1,353 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "3289",
+        "question_type": "multiple_choice_question",
+        "question_text": "Why does a higher temperature cause the viscosity of a magma to decrease?",
+        "answers": [
+            {
+                "text": "heat causes the magma to dissolve in water, meaning it can flow easily like a river of water -> ",
+                "match_pair": "heat causes the magma to dissolve in water, meaning it can flow easily like a river of water -> "
+            },
+            {
+                "text": "heat increases bonding in a magma causing the atoms to resist moving past one another -> ",
+                "match_pair": "heat increases bonding in a magma causing the atoms to resist moving past one another -> "
+            },
+            {
+                "is_selected": true,
+                "text": "heat breaks bonds between atoms and allows them to move easily past one another -> ",
+                "match_pair": "heat breaks bonds between atoms and allows them to move easily past one another -> "
+            },
+            {
+                "text": "heat causes atoms to break apart, allowing for the magma to flow easily -> ",
+                "match_pair": "heat causes atoms to break apart, allowing for the magma to flow easily -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "9906",
+        "question_type": "multiple_choice_question",
+        "question_text": "What is the geothermal gradient?",
+        "answers": [
+            {
+                "text": "the increase in pressure with depth inside the Earth -> ",
+                "match_pair": "the increase in pressure with depth inside the Earth -> "
+            },
+            {
+                "text": "the decrease in temperature of the Earth with increasing depth -> ",
+                "match_pair": "the decrease in temperature of the Earth with increasing depth -> "
+            },
+            {
+                "is_selected": true,
+                "text": "the increases in temperature of the Earth with increased depth -> ",
+                "match_pair": "the increases in temperature of the Earth with increased depth -> "
+            },
+            {
+                "text": "the change in temperature with elevation gain in the atmosphere -> ",
+                "match_pair": "the change in temperature with elevation gain in the atmosphere -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "670",
+        "question_type": "multiple_choice_question",
+        "question_text": "The rock in the image below has both small and large crystals. This texture is called porphyritic. A likely explanation for the formation of this rock is:",
+        "answers": [
+            {
+                "text": "The magma cooled rapidly, preserving voids left by gas bubbles. -> ",
+                "match_pair": "The magma cooled rapidly, preserving voids left by gas bubbles. -> "
+            },
+            {
+                "text": "The magma cooled slowly, forming only large crystals. -> ",
+                "match_pair": "The magma cooled slowly, forming only large crystals. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The magma cooled slowly at first, forming large crystals, and then quickly, forming small crystals from the remaining magma. -> ",
+                "match_pair": "The magma cooled slowly at first, forming large crystals, and then quickly, forming small crystals from the remaining magma. -> "
+            },
+            {
+                "text": "The magma cooled so rapidly that it produced a solid with no crystalline structure. -> ",
+                "match_pair": "The magma cooled so rapidly that it produced a solid with no crystalline structure. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "5936",
+        "question_type": "multiple_choice_question",
+        "question_text": "What is one way glassy texture forms?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "rapid cooling of lava -> ",
+                "match_pair": "rapid cooling of lava -> "
+            },
+            {
+                "text": "slow cooling of lava -> ",
+                "match_pair": "slow cooling of lava -> "
+            },
+            {
+                "text": "slow cooling of magma -> ",
+                "match_pair": "slow cooling of magma -> "
+            },
+            {
+                "text": "decompression of lava during eruption -> ",
+                "match_pair": "decompression of lava during eruption -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "4257",
+        "question_type": "multiple_choice_question",
+        "question_text": "What does pyroclastic texture in an igneous rock suggest about its formation?",
+        "answers": [
+            {
+                "text": "The rock was formed by rapid crystallization after eruption. -> ",
+                "match_pair": "The rock was formed by rapid crystallization after eruption. -> "
+            },
+            {
+                "text": "The rock was formed in an intrusive setting. -> ",
+                "match_pair": "The rock was formed in an intrusive setting. -> "
+            },
+            {
+                "text": "The rock was formed from two distinct cooling episodes. -> ",
+                "match_pair": "The rock was formed from two distinct cooling episodes. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The rock was likely formed by a violent volcanic eruption. -> ",
+                "match_pair": "The rock was likely formed by a violent volcanic eruption. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "5792",
+        "question_type": "multiple_answers_question",
+        "question_text": "In general, mafic igneous rocks are rich in which of the following elements? (select all that apply)",
+        "answers": [
+            {
+                "text": "sodium -> ",
+                "match_pair": "sodium -> "
+            },
+            {
+                "text": "potassium -> ",
+                "match_pair": "potassium -> "
+            },
+            {
+                "is_selected": true,
+                "text": "iron -> Your Answer: (You left this blank)",
+                "match_pair": "iron -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "silicon -> ",
+                "match_pair": "silicon -> "
+            },
+            {
+                "is_selected": true,
+                "text": "magnesium -> Your Answer: (You left this blank)",
+                "match_pair": "magnesium -> Your Answer: (You left this blank)"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "4936",
+        "question_type": "multiple_choice_question",
+        "question_text": "Based on what you learned in this module, and using the following image, which of the following is an appropriate description of how the conditions change from the first blue dot to the second blue dot.",
+        "answers": [
+            {
+                "text": "An area of solid rock undergoes increases in pressure and temperature as it is buried. -> ",
+                "match_pair": "An area of solid rock undergoes increases in pressure and temperature as it is buried. -> "
+            },
+            {
+                "text": "An area of solid rock in the subsurface is heated quickly in place and starts to melt. -> ",
+                "match_pair": "An area of solid rock in the subsurface is heated quickly in place and starts to melt. -> "
+            },
+            {
+                "text": "Magma erupts at the surface and then rapidly cools to a solid. -> ",
+                "match_pair": "Magma erupts at the surface and then rapidly cools to a solid. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "An area of solid rock deep in the subsurface quickly rises to a lower depth/pressure and melts. -> ",
+                "match_pair": "An area of solid rock deep in the subsurface quickly rises to a lower depth/pressure and melts. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "4987",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Magma rises for two reasons: 1. It is [ Select ] [\"less buoyant\", \"more dense\", \"more mafic\", \"less dense\"] than surrounding rock. 2. Overlying rocks creates [ Select ] [\"less buoyant\", \"tension\", \"a high geothermal gradient\", \"less felsic\", \"pressure\", \"more buoyant\", \"more dense\"] on the magma causing it to rise.",
+        "dropdown_options": [
+            [
+                "less buoyant",
+                "more dense",
+                "more mafic",
+                "less dense"
+            ],
+            [
+                "less buoyant",
+                "tension",
+                "a high geothermal gradient",
+                "less felsic",
+                "pressure",
+                "more buoyant",
+                "more dense"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "less buoyant -> ",
+                "match_pair": "less buoyant -> "
+            },
+            {
+                "text": "more dense -> ",
+                "match_pair": "more dense -> "
+            },
+            {
+                "text": "more mafic -> ",
+                "match_pair": "more mafic -> "
+            },
+            {
+                "is_selected": true,
+                "text": "less dense -> ",
+                "match_pair": "less dense -> "
+            },
+            {
+                "text": "tension -> ",
+                "match_pair": "tension -> "
+            },
+            {
+                "text": "a high geothermal gradient -> ",
+                "match_pair": "a high geothermal gradient -> "
+            },
+            {
+                "text": "less felsic -> ",
+                "match_pair": "less felsic -> "
+            },
+            {
+                "is_selected": true,
+                "text": "pressure -> ",
+                "match_pair": "pressure -> "
+            },
+            {
+                "text": "more buoyant -> ",
+                "match_pair": "more buoyant -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "6423",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "During a hike, you pick up the igneous rock shown below. a. The texture of this rock is best described as: [ Select ] [\"phaneritic\", \"aphanitic\"] b. Because of this texture, we can say with some certainty that the magma that formed it cooled [ Select ] [\"quickly\", \"slowly\"] c. If I told you this rock is ultramafic you could tell me that it likely came from the [ Select ] [\"continental crust\", \"mantle\"]",
+        "dropdown_options": [
+            [
+                "phaneritic",
+                "aphanitic"
+            ],
+            [
+                "quickly",
+                "slowly"
+            ],
+            [
+                "continental crust",
+                "mantle"
+            ]
+        ],
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "phaneritic -> ",
+                "match_pair": "phaneritic -> "
+            },
+            {
+                "text": "aphanitic -> ",
+                "match_pair": "aphanitic -> "
+            },
+            {
+                "text": "quickly -> ",
+                "match_pair": "quickly -> "
+            },
+            {
+                "is_selected": true,
+                "text": "slowly -> ",
+                "match_pair": "slowly -> "
+            },
+            {
+                "text": "continental crust -> ",
+                "match_pair": "continental crust -> "
+            },
+            {
+                "is_selected": true,
+                "text": "mantle -> ",
+                "match_pair": "mantle -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "20",
+        "question_type": "matching_question",
+        "question_text": "Based on what you learned about minerals and igneous rocks, and based on the following mineral compositions, are the following mafic or felsic minerals? (sorry, I can't subscript within the answer box options)",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "olivine\u2013Mg2SiO4 -> mafic",
+                "match_pair": "olivine\u2013Mg2SiO4 -> mafic"
+            },
+            {
+                "is_selected": true,
+                "text": "quartz\u2013SiO2 -> felsic",
+                "match_pair": "quartz\u2013SiO2 -> felsic"
+            },
+            {
+                "is_selected": true,
+                "text": "biotite mica\u2013KMg3AlSi3O10(OH)2 -> mafic",
+                "match_pair": "biotite mica\u2013KMg3AlSi3O10(OH)2 -> mafic"
+            },
+            {
+                "is_selected": true,
+                "text": "feldspar\u2013KAlSi3O8 -> felsic",
+                "match_pair": "feldspar\u2013KAlSi3O8 -> felsic"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "6016",
+        "question_type": "multiple_answers_question",
+        "question_text": "Which of the following could cause rock to melt? (select all that apply)",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "change in composition -> Your Answer: (You left this blank)",
+                "match_pair": "change in composition -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "decrease in pressure -> Your Answer: (You left this blank)",
+                "match_pair": "decrease in pressure -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "decrease in temperature -> ",
+                "match_pair": "decrease in temperature -> "
+            },
+            {
+                "is_selected": true,
+                "text": "increase in temperature -> Your Answer: (You left this blank)",
+                "match_pair": "increase in temperature -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "increase in pressure -> ",
+                "match_pair": "increase in pressure -> "
+            }
+        ]
+    }
+]

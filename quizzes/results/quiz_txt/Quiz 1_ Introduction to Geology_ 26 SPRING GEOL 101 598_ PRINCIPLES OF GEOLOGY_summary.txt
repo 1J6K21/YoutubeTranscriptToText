@@ -1,0 +1,117 @@
+Question 1: Which of the following rocks would be the most buoyant on Earth's mantle?
+Type: multiple_choice_question
+Answers:
+  [ ] Rock B: Density 5.6 g/cm3 -> 
+  [ ] Rock D: Density 2.7 g/cm3 -> 
+  [x] (Correct) Rock A: Density 1.4 g/cm3 -> 
+
+----------------------------------------
+
+Question 2: The Earth's magnetic field is generated where?
+Type: multiple_choice_question
+Answers:
+  [ ] Earth's atmosphere -> 
+  [x] (Correct) Earth's core -> 
+  [ ] the Sun -> 
+  [ ] Earth's mantle -> 
+
+----------------------------------------
+
+Question 3: How old is the Solar System?
+Type: multiple_choice_question
+Answers:
+  [x] (Correct) 4.6 billion years old -> 
+  [ ] 13 billion years old -> 
+  [ ] 13 million years old -> 
+  [ ] 4.6 million years old -> 
+
+----------------------------------------
+
+Question 4: Since temperatures in Earth increase with depth, why is the inner core solid?
+Type: multiple_choice_question
+Answers:
+  [ ] Temperatures increase to a certain point before leveling off below the melting point of the core. -> 
+  [x] (Correct) The pressures in the core are immense and keep it in a solid state despite the temperature. -> 
+  [ ] Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> 
+  [ ] The inner core is shedding the heat so quickly that melting does not have time to occur. -> 
+
+----------------------------------------
+
+Question 5: Which of the following describe igneous rocks?
+Type: multiple_choice_question
+Answers:
+  [ ] formed by the lithification of pre-existing rock fragments -> 
+  [ ] formed by the heating and squeezing of pre-existing rock -> 
+  [ ] formed by the melting of sediments -> 
+  [x] (Correct) formed by the cooling and crystallization of a magma or lava -> 
+
+----------------------------------------
+
+Question 6: The layers of Earth's geosphere are defined based on which TWO sets of characteristics? (select two)
+Type: multiple_answers_question
+Answers:
+  [ ] density -> 
+  [x] (Correct) physical properties -> Your Answer: (You left this blank) It was really:
+  [ ] thickness -> 
+  [ ] depth -> 
+  [x] (Correct) chemical composition -> Your Answer: (You left this blank) It was really:
+  [ ] age -> 
+
+----------------------------------------
+
+Question 7: Why is data collection important to scientists? (yes "data" is a plural)
+Type: multiple_choice_question
+Answers:
+  [ ] data are used to observe a theory -> 
+  [ ] data are used to formulate a method -> 
+  [ ] data are used to discover a hypothesis -> 
+  [x] (Correct) data are used to support or disprove a hypothesis -> 
+
+----------------------------------------
+
+Question 8: Oceanic crust is _________ than continental crust.
+Type: multiple_choice_question
+Answers:
+  [ ] thicker -> 
+  [x] (Correct) denser -> 
+  [ ] higher -> 
+  [ ] less dense -> 
+
+----------------------------------------
+
+Question 9: The "Big Bang" describes the formation of the Universe and is estimated to have occurred between 10 billion and 15 billion years ago .
+Type: multiple_dropdowns_question
+Answers:
+  [x] (Correct) the formation of the Universe -> 
+  [ ] the formation of our Solar System -> 
+  [ ] a TV sitcom -> 
+  [ ] the destruction of time and space -> 
+  [ ] between 2 billion and 5 billion years ago -> 
+  [ ] between 250 million and 400 million years ago -> 
+  [ ] between 5,000 and 10,000 years ago -> 
+  [x] (Correct) between 10 billion and 15 billion years ago -> 
+
+----------------------------------------
+
+Question 10: Match the following rock types with their appropriate definitions.
+Type: matching_question
+Answers:
+  [x] (Correct) rocks formed by the cooling/crystallization of molten rock -> igneous
+  [x] (Correct) rocks formed by intense heating and/or increase in pressure of pre-existing rock -> metamorphic
+  [x] (Correct) rocks formed by the compaction and cementation of smaller rock fragments -> sedimentary
+
+----------------------------------------
+
+Question 11: On the following map, a-e point directly to either oceanic or continental crust. Choose the correct crust type for each.
+Type: matching_question
+Answers:
+  [x] (Correct) a -> oceanic crust
+  [x] (Correct) b -> continental crust
+  [x] (Correct) c -> continental crust
+  [x] (Correct) d -> oceanic crust
+  [x] (Selected) e -> oceanic crust
+  [ ]  -> continental crust
+  [x] (Correct) continental crust
+
+----------------------------------------
+

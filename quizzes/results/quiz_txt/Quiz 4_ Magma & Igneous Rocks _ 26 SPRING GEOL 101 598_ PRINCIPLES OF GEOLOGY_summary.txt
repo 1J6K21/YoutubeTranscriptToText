@@ -1,0 +1,126 @@
+Question 1: Why does a higher temperature cause the viscosity of a magma to decrease?
+Type: multiple_choice_question
+Answers:
+  [ ] heat causes the magma to dissolve in water, meaning it can flow easily like a river of water -> 
+  [ ] heat increases bonding in a magma causing the atoms to resist moving past one another -> 
+  [x] (Selected) heat breaks bonds between atoms and allows them to move easily past one another -> 
+  [ ] heat causes atoms to break apart, allowing for the magma to flow easily -> 
+
+----------------------------------------
+
+Question 2: What is the geothermal gradient?
+Type: multiple_choice_question
+Answers:
+  [ ] the increase in pressure with depth inside the Earth -> 
+  [ ] the decrease in temperature of the Earth with increasing depth -> 
+  [x] (Selected) the increases in temperature of the Earth with increased depth -> 
+  [ ] the change in temperature with elevation gain in the atmosphere -> 
+
+----------------------------------------
+
+Question 3: The rock in the image below has both small and large crystals. This texture is called porphyritic. A likely explanation for the formation of this rock is:
+Type: multiple_choice_question
+Answers:
+  [ ] The magma cooled rapidly, preserving voids left by gas bubbles. -> 
+  [ ] The magma cooled slowly, forming only large crystals. -> 
+  [x] (Selected) The magma cooled slowly at first, forming large crystals, and then quickly, forming small crystals from the remaining magma. -> 
+  [ ] The magma cooled so rapidly that it produced a solid with no crystalline structure. -> 
+
+----------------------------------------
+
+Question 4: What is one way glassy texture forms?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) rapid cooling of lava -> 
+  [ ] slow cooling of lava -> 
+  [ ] slow cooling of magma -> 
+  [ ] decompression of lava during eruption -> 
+
+----------------------------------------
+
+Question 5: What does pyroclastic texture in an igneous rock suggest about its formation?
+Type: multiple_choice_question
+Answers:
+  [ ] The rock was formed by rapid crystallization after eruption. -> 
+  [ ] The rock was formed in an intrusive setting. -> 
+  [ ] The rock was formed from two distinct cooling episodes. -> 
+  [x] (Selected) The rock was likely formed by a violent volcanic eruption. -> 
+
+----------------------------------------
+
+Question 6: In general, mafic igneous rocks are rich in which of the following elements? (select all that apply)
+Type: multiple_answers_question
+Answers:
+  [ ] sodium -> 
+  [ ] potassium -> 
+  [x] (Selected) iron -> Your Answer: (You left this blank)
+  [ ] silicon -> 
+  [x] (Selected) magnesium -> Your Answer: (You left this blank)
+
+----------------------------------------
+
+Question 7: Based on what you learned in this module, and using the following image, which of the following is an appropriate description of how the conditions change from the first blue dot to the second blue dot.
+Type: multiple_choice_question
+Answers:
+  [ ] An area of solid rock undergoes increases in pressure and temperature as it is buried. -> 
+  [ ] An area of solid rock in the subsurface is heated quickly in place and starts to melt. -> 
+  [ ] Magma erupts at the surface and then rapidly cools to a solid. -> 
+  [x] (Selected) An area of solid rock deep in the subsurface quickly rises to a lower depth/pressure and melts. -> 
+
+----------------------------------------
+
+Question 8: Magma rises for two reasons: 1. It is [ Select ] ["less buoyant", "more dense", "more mafic", "less dense"] than surrounding rock. 2. Overlying rocks creates [ Select ] ["less buoyant", "tension", "a high geothermal gradient", "less felsic", "pressure", "more buoyant", "more dense"] on the magma causing it to rise.
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - less buoyant, more dense, more mafic, less dense
+  - less buoyant, tension, a high geothermal gradient, less felsic, pressure, more buoyant, more dense
+Answers:
+  [ ] less buoyant -> 
+  [ ] more dense -> 
+  [ ] more mafic -> 
+  [x] (Selected) less dense -> 
+  [ ] tension -> 
+  [ ] a high geothermal gradient -> 
+  [ ] less felsic -> 
+  [x] (Selected) pressure -> 
+  [ ] more buoyant -> 
+
+----------------------------------------
+
+Question 9: During a hike, you pick up the igneous rock shown below. a. The texture of this rock is best described as: [ Select ] ["phaneritic", "aphanitic"] b. Because of this texture, we can say with some certainty that the magma that formed it cooled [ Select ] ["quickly", "slowly"] c. If I told you this rock is ultramafic you could tell me that it likely came from the [ Select ] ["continental crust", "mantle"]
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - phaneritic, aphanitic
+  - quickly, slowly
+  - continental crust, mantle
+Answers:
+  [x] (Selected) phaneritic -> 
+  [ ] aphanitic -> 
+  [ ] quickly -> 
+  [x] (Selected) slowly -> 
+  [ ] continental crust -> 
+  [x] (Selected) mantle -> 
+
+----------------------------------------
+
+Question 10: Based on what you learned about minerals and igneous rocks, and based on the following mineral compositions, are the following mafic or felsic minerals? (sorry, I can't subscript within the answer box options)
+Type: matching_question
+Answers:
+  [x] (Selected) olivine–Mg2SiO4 -> mafic
+  [x] (Selected) quartz–SiO2 -> felsic
+  [x] (Selected) biotite mica–KMg3AlSi3O10(OH)2 -> mafic
+  [x] (Selected) feldspar–KAlSi3O8 -> felsic
+
+----------------------------------------
+
+Question 11: Which of the following could cause rock to melt? (select all that apply)
+Type: multiple_answers_question
+Answers:
+  [x] (Selected) change in composition -> Your Answer: (You left this blank)
+  [x] (Selected) decrease in pressure -> Your Answer: (You left this blank)
+  [ ] decrease in temperature -> 
+  [x] (Selected) increase in temperature -> Your Answer: (You left this blank)
+  [ ] increase in pressure -> 
+
+----------------------------------------
+

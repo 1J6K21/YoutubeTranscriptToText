@@ -1,0 +1,412 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "8048",
+        "question_type": "multiple_choice_question",
+        "question_text": "Where in the ocean does oceanic lithosphere sink into the mantle?",
+        "answers": [
+            {
+                "text": "at continental shelves -> ",
+                "match_pair": "at continental shelves -> "
+            },
+            {
+                "text": "at mid-ocean ridges -> ",
+                "match_pair": "at mid-ocean ridges -> "
+            },
+            {
+                "text": "at fracture zones -> ",
+                "match_pair": "at fracture zones -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "at ocean trenches -> ",
+                "match_pair": "at ocean trenches -> "
+            },
+            {
+                "text": "at abyssal plains -> ",
+                "match_pair": "at abyssal plains -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "8202",
+        "question_type": "multiple_choice_question",
+        "question_text": "To what type of feature is the arrow below pointing to on this Google Earth image?",
+        "answers": [
+            {
+                "text": "a mid-ocean ridge -> ",
+                "match_pair": "a mid-ocean ridge -> "
+            },
+            {
+                "text": "a mountain chain -> ",
+                "match_pair": "a mountain chain -> "
+            },
+            {
+                "text": "a hot-spot track -> ",
+                "match_pair": "a hot-spot track -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "an oceanic trench -> ",
+                "match_pair": "an oceanic trench -> "
+            },
+            {
+                "text": "a seamount chain -> ",
+                "match_pair": "a seamount chain -> "
+            },
+            {
+                "text": "Earth's core (seriously don't pick this one) -> ",
+                "match_pair": "Earth's core (seriously don't pick this one) -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "3854",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Continental crust is mainly composed of [ Select ] [\"quartz\", \"peridotite\", \"granite/granodiorite\", \"basalt\"] , whereas oceanic crust is mainly composed of [ Select ] [\"peridotite\", \"basalt\", \"granite/granodiorite\", \"quartz\"] .",
+        "dropdown_options": [
+            [
+                "quartz",
+                "peridotite",
+                "granite/granodiorite",
+                "basalt"
+            ],
+            [
+                "peridotite",
+                "basalt",
+                "granite/granodiorite",
+                "quartz"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "quartz -> ",
+                "match_pair": "quartz -> "
+            },
+            {
+                "text": "peridotite -> ",
+                "match_pair": "peridotite -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "granite/granodiorite -> ",
+                "match_pair": "granite/granodiorite -> "
+            },
+            {
+                "text": "basalt -> ",
+                "match_pair": "basalt -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "5658",
+        "question_type": "multiple_choice_question",
+        "question_text": "A typical rate of plate motion is:",
+        "answers": [
+            {
+                "text": "~3 meters/year -> ",
+                "match_pair": "~3 meters/year -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "~3 centimeters/year -> ",
+                "match_pair": "~3 centimeters/year -> "
+            },
+            {
+                "text": "~3 millimeters/year -> ",
+                "match_pair": "~3 millimeters/year -> "
+            },
+            {
+                "text": "~3 kilometers/year -> ",
+                "match_pair": "~3 kilometers/year -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "2914",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The early-twentieth-century hypothesis ( [ Select ] [\"continental drift\", \"plate tectonic theory\", \"nebular theory\", \"sea floor spreading\"] ) was at first rejected by geologists, but in the 1960s it was replaced by the more comprehensive [ Select ] [\"sea floor spreading\", \"continental drift\", \"nebular theory\", \"plate tectonic theory\"] .",
+        "dropdown_options": [
+            [
+                "continental drift",
+                "plate tectonic theory",
+                "nebular theory",
+                "sea floor spreading"
+            ],
+            [
+                "sea floor spreading",
+                "continental drift",
+                "nebular theory",
+                "plate tectonic theory"
+            ]
+        ],
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "continental drift -> ",
+                "match_pair": "continental drift -> "
+            },
+            {
+                "text": "plate tectonic theory -> ",
+                "match_pair": "plate tectonic theory -> "
+            },
+            {
+                "text": "nebular theory -> ",
+                "match_pair": "nebular theory -> "
+            },
+            {
+                "text": "sea floor spreading -> ",
+                "match_pair": "sea floor spreading -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "6974",
+        "question_type": "multiple_choice_question",
+        "question_text": "Rigid lithospheric plates move _______.",
+        "answers": [
+            {
+                "text": "as they float on oceanic crust -> ",
+                "match_pair": "as they float on oceanic crust -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "over the more ductile asthenosphere -> ",
+                "match_pair": "over the more ductile asthenosphere -> "
+            },
+            {
+                "text": "on the hotter mantle peridotite -> ",
+                "match_pair": "on the hotter mantle peridotite -> "
+            },
+            {
+                "text": "due to tidal forces -> ",
+                "match_pair": "due to tidal forces -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "363",
+        "question_type": "multiple_choice_question",
+        "question_text": "How can hot spots leave evidence of plate motion?",
+        "answers": [
+            {
+                "text": "Polar wandering creates hot spot patterns, showing plate motion -> ",
+                "match_pair": "Polar wandering creates hot spot patterns, showing plate motion -> "
+            },
+            {
+                "text": "Hot spots move, indicating plate tectonics is occurring -> ",
+                "match_pair": "Hot spots move, indicating plate tectonics is occurring -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Hot spot tracks of volcanic islands are created as plates move over mantle plumes -> ",
+                "match_pair": "Hot spot tracks of volcanic islands are created as plates move over mantle plumes -> "
+            },
+            {
+                "text": "Hot spots are always found at plate boundaries -> ",
+                "match_pair": "Hot spots are always found at plate boundaries -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "1269",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The angle difference between magnetic north and true north is called declination . Inclination is the angle of a magnetic needle or magnetic mineral relative to the Earth's surface and tells us the latitude at which a magnetic mineral formed or at which the compass needle is currently located.",
+        "answers": [
+            {
+                "text": "intuition -> ",
+                "match_pair": "intuition -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "declination -> ",
+                "match_pair": "declination -> "
+            },
+            {
+                "text": "delineation -> ",
+                "match_pair": "delineation -> "
+            },
+            {
+                "text": "inclination -> ",
+                "match_pair": "inclination -> "
+            },
+            {
+                "text": "Declination -> ",
+                "match_pair": "Declination -> "
+            },
+            {
+                "text": "Delineation -> ",
+                "match_pair": "Delineation -> "
+            },
+            {
+                "text": "Intuition -> ",
+                "match_pair": "Intuition -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Inclination -> ",
+                "match_pair": "Inclination -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "2681",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "When Earth's magnetic field reverses polarity, it is recorded in [ Select ] [\"volcanoes\", \"fossils\", \"oceanic crust\"] formed at that time. Paleomagnetic researchers of the find fairly [ Select ] [\"indistinguishable\", \"asymmetric\", \"symmetric\"] patterns of alternating magnetism that parallel [ Select ] [\"mid-ocean ridges\", \"oceanic trenches\", \"mountain belts\"] . Such a pattern forms when an older crust is carried away in an opposite directions by [ Select ] [\"continental drift\", \"aliens\", \"sea-floor spreading\"] .",
+        "dropdown_options": [
+            [
+                "volcanoes",
+                "fossils",
+                "oceanic crust"
+            ],
+            [
+                "indistinguishable",
+                "asymmetric",
+                "symmetric"
+            ],
+            [
+                "mid-ocean ridges",
+                "oceanic trenches",
+                "mountain belts"
+            ],
+            [
+                "continental drift",
+                "aliens",
+                "sea-floor spreading"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "volcanoes -> ",
+                "match_pair": "volcanoes -> "
+            },
+            {
+                "text": "fossils -> ",
+                "match_pair": "fossils -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "oceanic crust -> ",
+                "match_pair": "oceanic crust -> "
+            },
+            {
+                "text": "indistinguishable -> ",
+                "match_pair": "indistinguishable -> "
+            },
+            {
+                "text": "asymmetric -> ",
+                "match_pair": "asymmetric -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "symmetric -> ",
+                "match_pair": "symmetric -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "mid-ocean ridges -> ",
+                "match_pair": "mid-ocean ridges -> "
+            },
+            {
+                "text": "oceanic trenches -> ",
+                "match_pair": "oceanic trenches -> "
+            },
+            {
+                "text": "mountain belts -> ",
+                "match_pair": "mountain belts -> "
+            },
+            {
+                "text": "continental drift -> ",
+                "match_pair": "continental drift -> "
+            },
+            {
+                "text": "aliens -> ",
+                "match_pair": "aliens -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "sea-floor spreading -> ",
+                "match_pair": "sea-floor spreading -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "6554",
+        "question_type": "matching_question",
+        "question_text": "Match the following geologic features on Earth with their tectonic boundary. You will not use all boundaries.",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "The Himalayas -> continent-continent convergence",
+                "match_pair": "The Himalayas -> continent-continent convergence"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Cascade Mountains -> continent\u2013ocean convergence",
+                "match_pair": "Cascade Mountains -> continent\u2013ocean convergence"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Mt. Kilimanjaro, East Africa -> continental rift",
+                "match_pair": "Mt. Kilimanjaro, East Africa -> continental rift"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "San Andreas fault -> transform",
+                "match_pair": "San Andreas fault -> transform"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "8532",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The major difference between oceanic-oceanic convergence and oceanic-continental convergence is that: oceanic-oceanic convergence produces a volcanic island arc and oceanic-continental convergence produces a continental volcanic arc .",
+        "answers": [
+            {
+                "text": "a mountain belt -> ",
+                "match_pair": "a mountain belt -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "a volcanic island arc -> ",
+                "match_pair": "a volcanic island arc -> "
+            },
+            {
+                "text": "a trench -> ",
+                "match_pair": "a trench -> "
+            },
+            {
+                "text": "a continental volcanic arc -> ",
+                "match_pair": "a continental volcanic arc -> "
+            }
+        ]
+    }
+]

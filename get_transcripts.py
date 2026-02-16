@@ -164,17 +164,26 @@ def cli():
             except:
                 pass
 
+    # Create output directory
+    output_dir = "processed_data"
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
     # 2. Output MD File
     print("\nSelect Output Markdown file:")
     output_md = select_file(".md")
     if not output_md:
-       output_md = input("Enter output markdown filename (e.g., results.md): ").strip()
+       output_md = input(f"Enter output markdown filename (default: {output_dir}/results.md): ").strip()
+       if not output_md:
+           output_md = os.path.join(output_dir, "results.md")
 
     # 3. Output TXT File
     print("\nSelect Output Text file:")
-    output_txt = select_file(".txt") # Might pick input file by mistake if not careful, but user chooses
+    output_txt = select_file(".txt") 
     if not output_txt:
-        output_txt = input("Enter output text filename (e.g., full_transcripts.txt): ").strip()
+        output_txt = input(f"Enter output text filename (default: {output_dir}/full_transcripts.txt): ").strip()
+        if not output_txt:
+            output_txt = os.path.join(output_dir, "full_transcripts.txt")
 
     # 4. Mode
     mode = 'w'

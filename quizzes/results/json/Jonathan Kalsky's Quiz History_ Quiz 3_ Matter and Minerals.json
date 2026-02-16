@@ -1,0 +1,317 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "6174",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which of the following processes is most likely to form minerals?",
+        "answers": [
+            {
+                "text": "Deposition of mineral at a volcanic vent from ions dissolved in a volcanic gas -> ",
+                "match_pair": "Deposition of mineral at a volcanic vent from ions dissolved in a volcanic gas -> "
+            },
+            {
+                "text": "Accumulation of minerals produced by humans -> ",
+                "match_pair": "Accumulation of minerals produced by humans -> "
+            },
+            {
+                "is_selected": true,
+                "text": "Weathering of rock particles during erosion -> ",
+                "match_pair": "Weathering of rock particles during erosion -> "
+            },
+            {
+                "text": "Heating water by 10\u00b0C or more -> ",
+                "match_pair": "Heating water by 10\u00b0C or more -> "
+            },
+            {
+                "text": "Stirring an aqueous solution -> ",
+                "match_pair": "Stirring an aqueous solution -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "9066",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which statement correctly describes rock-forming minerals and economic minerals?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "Rock-forming minerals consist of a few types of minerals that are abundant in Earth\u2019s crust, whereas economic minerals are less abundant and are used extensively in the manufacture of products. -> ",
+                "match_pair": "Rock-forming minerals consist of a few types of minerals that are abundant in Earth\u2019s crust, whereas economic minerals are less abundant and are used extensively in the manufacture of products. -> "
+            },
+            {
+                "text": "Silicates are important economic resources and include gypsum, which is used for plaster. Nonsilicate minerals are only important as rock-building minerals. -> ",
+                "match_pair": "Silicates are important economic resources and include gypsum, which is used for plaster. Nonsilicate minerals are only important as rock-building minerals. -> "
+            },
+            {
+                "text": "Economic minerals consist mostly of silicate minerals, whereas rock-building minerals consist mostly of nonsilicates. -> ",
+                "match_pair": "Economic minerals consist mostly of silicate minerals, whereas rock-building minerals consist mostly of nonsilicates. -> "
+            },
+            {
+                "text": "Only minerals that are not rock-building minerals can have economic value. -> ",
+                "match_pair": "Only minerals that are not rock-building minerals can have economic value. -> "
+            },
+            {
+                "text": "Rock-forming minerals consist of a few types of minerals that are sparse in Earth\u2019s crust, whereas economic minerals are very abundant and are used extensively in the manufacture of products. -> ",
+                "match_pair": "Rock-forming minerals consist of a few types of minerals that are sparse in Earth\u2019s crust, whereas economic minerals are very abundant and are used extensively in the manufacture of products. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "171",
+        "question_type": "multiple_choice_question",
+        "question_text": "Why does quartz have this pyramid shape?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "This shape results from the ordered crystal structure of SiO2 -> ",
+                "match_pair": "This shape results from the ordered crystal structure of SiO2 -> "
+            },
+            {
+                "text": "These are facets cut by humans to make it look nicer. -> ",
+                "match_pair": "These are facets cut by humans to make it look nicer. -> "
+            },
+            {
+                "text": "Because any mineral that grows into open space has this shape -> ",
+                "match_pair": "Because any mineral that grows into open space has this shape -> "
+            },
+            {
+                "text": "This forms when quartz grows by precipitation from a solution. -> ",
+                "match_pair": "This forms when quartz grows by precipitation from a solution. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "5048",
+        "question_type": "multiple_choice_question",
+        "question_text": "Sometimes minerals have nice crystal faces that can make them quite valuable to collectors. Minerals can form in this way:",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "providing there is open space for them to grow -> ",
+                "match_pair": "providing there is open space for them to grow -> "
+            },
+            {
+                "text": "only under high pressure -> ",
+                "match_pair": "only under high pressure -> "
+            },
+            {
+                "text": "always, they just get broken up during weathering -> ",
+                "match_pair": "always, they just get broken up during weathering -> "
+            },
+            {
+                "text": "only in a laboratory -> ",
+                "match_pair": "only in a laboratory -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "2457",
+        "question_type": "multiple_choice_question",
+        "question_text": "How do rocks differ from minerals?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "Minerals aggregate to form rocks, but rocks do not aggregate to form minerals. -> ",
+                "match_pair": "Minerals aggregate to form rocks, but rocks do not aggregate to form minerals. -> "
+            },
+            {
+                "text": "Some minerals contain amorphous glassy debris or organic matter. However, these components are never found in rocks. -> ",
+                "match_pair": "Some minerals contain amorphous glassy debris or organic matter. However, these components are never found in rocks. -> "
+            },
+            {
+                "text": "Rocks aggregate to form minerals, but minerals do not aggregate to form rocks. -> ",
+                "match_pair": "Rocks aggregate to form minerals, but minerals do not aggregate to form rocks. -> "
+            },
+            {
+                "text": "Minerals can be synthesized, whereas rocks only naturally occur. -> ",
+                "match_pair": "Minerals can be synthesized, whereas rocks only naturally occur. -> "
+            },
+            {
+                "text": "Rocks can be synthesized, whereas minerals only naturally occur. -> ",
+                "match_pair": "Rocks can be synthesized, whereas minerals only naturally occur. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "5892",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which of the following silicate mineral structures has the most silicon relative to oxygen?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "E -> ",
+                "match_pair": "E -> "
+            },
+            {
+                "text": "A -> ",
+                "match_pair": "A -> "
+            },
+            {
+                "text": "B -> ",
+                "match_pair": "B -> "
+            },
+            {
+                "text": "D -> ",
+                "match_pair": "D -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "801",
+        "question_type": "multiple_choice_question",
+        "question_text": "Quartz is a mineral that can be highly varied in color, as shown below. What generally causes variation in color like this?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "impurities or trace concentrations of elements in the crystal structure -> ",
+                "match_pair": "impurities or trace concentrations of elements in the crystal structure -> "
+            },
+            {
+                "text": "differences in the chemical makeup of the quartz -> ",
+                "match_pair": "differences in the chemical makeup of the quartz -> "
+            },
+            {
+                "text": "differences in the shape of the crystal -> ",
+                "match_pair": "differences in the shape of the crystal -> "
+            },
+            {
+                "text": "the amount of time the mineral has spent exposed to the Earth's surface (ie. Sunlight) -> ",
+                "match_pair": "the amount of time the mineral has spent exposed to the Earth's surface (ie. Sunlight) -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "557",
+        "question_type": "matching_question",
+        "question_text": "Given the periodic table below, are the following elements more likely to gain or lose electron(s) when forming an ion?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "Li-lithium -> lose",
+                "match_pair": "Li-lithium -> lose"
+            },
+            {
+                "is_selected": true,
+                "text": "O-oxygen -> gain",
+                "match_pair": "O-oxygen -> gain"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "4765",
+        "question_type": "multiple_answers_question",
+        "question_text": "Which of the following are true of light colored silicate minerals? (Select all that apply)",
+        "answers": [
+            {
+                "text": "contain iron and magnesium -> ",
+                "match_pair": "contain iron and magnesium -> "
+            },
+            {
+                "is_selected": true,
+                "text": "low density -> Your Answer: (You left this blank)",
+                "match_pair": "low density -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "high density -> ",
+                "match_pair": "high density -> "
+            },
+            {
+                "is_selected": true,
+                "text": "low melting temperatures -> Your Answer: (You left this blank)",
+                "match_pair": "low melting temperatures -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "high melting temperatures -> ",
+                "match_pair": "high melting temperatures -> "
+            },
+            {
+                "text": "common in Earth's oceanic crust -> ",
+                "match_pair": "common in Earth's oceanic crust -> "
+            },
+            {
+                "is_selected": true,
+                "text": "common in Earth's continental crust -> Your Answer: (You left this blank)",
+                "match_pair": "common in Earth's continental crust -> Your Answer: (You left this blank)"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "6090",
+        "question_type": "multiple_answers_question",
+        "question_text": "Which of the following are true about the minerals diamond and graphite? (Select all that apply)",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "They are polymorphs, meaning they have the same chemical composition but different structures. -> Your Answer: (You left this blank)",
+                "match_pair": "They are polymorphs, meaning they have the same chemical composition but different structures. -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "Graphite is used for pencil lead. -> Your Answer: (You left this blank)",
+                "match_pair": "Graphite is used for pencil lead. -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "Diamond forms at very high pressures deep in the Earth, and graphite forms at lower pressures. -> Your Answer: (You left this blank)",
+                "match_pair": "Diamond forms at very high pressures deep in the Earth, and graphite forms at lower pressures. -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "Because they have the same composition, they are the same mineral. -> ",
+                "match_pair": "Because they have the same composition, they are the same mineral. -> "
+            },
+            {
+                "text": "Graphite is softer than diamond because it contains weaker bonds. -> ",
+                "match_pair": "Graphite is softer than diamond because it contains weaker bonds. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "5432",
+        "question_type": "multiple_answers_question",
+        "question_text": "Which of the following are true of dark colored silicate minerals? (Select all that apply)",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "contain iron and magnesium -> Your Answer: (You left this blank)",
+                "match_pair": "contain iron and magnesium -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "high density -> Your Answer: (You left this blank)",
+                "match_pair": "high density -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "low density -> ",
+                "match_pair": "low density -> "
+            },
+            {
+                "text": "low melting temperature -> ",
+                "match_pair": "low melting temperature -> "
+            },
+            {
+                "is_selected": true,
+                "text": "high melting temperature -> Your Answer: (You left this blank)",
+                "match_pair": "high melting temperature -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "common in Earth's oceanic crust -> Your Answer: (You left this blank)",
+                "match_pair": "common in Earth's oceanic crust -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "common in Earth's continental crust -> ",
+                "match_pair": "common in Earth's continental crust -> "
+            }
+        ]
+    }
+]

@@ -1,0 +1,332 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "2328",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which of the following rocks would be the most buoyant on Earth's mantle?",
+        "answers": [
+            {
+                "text": "Rock B: Density 5.6 g/cm3 -> ",
+                "match_pair": "Rock B: Density 5.6 g/cm3 -> "
+            },
+            {
+                "text": "Rock D: Density 2.7 g/cm3 -> ",
+                "match_pair": "Rock D: Density 2.7 g/cm3 -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Rock A: Density 1.4 g/cm3 -> ",
+                "match_pair": "Rock A: Density 1.4 g/cm3 -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "6214",
+        "question_type": "multiple_choice_question",
+        "question_text": "The Earth's magnetic field is generated where?",
+        "answers": [
+            {
+                "text": "Earth's atmosphere -> ",
+                "match_pair": "Earth's atmosphere -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Earth's core -> ",
+                "match_pair": "Earth's core -> "
+            },
+            {
+                "text": "the Sun -> ",
+                "match_pair": "the Sun -> "
+            },
+            {
+                "text": "Earth's mantle -> ",
+                "match_pair": "Earth's mantle -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "2690",
+        "question_type": "multiple_choice_question",
+        "question_text": "How old is the Solar System?",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "4.6 billion years old -> ",
+                "match_pair": "4.6 billion years old -> "
+            },
+            {
+                "text": "13 billion years old -> ",
+                "match_pair": "13 billion years old -> "
+            },
+            {
+                "text": "13 million years old -> ",
+                "match_pair": "13 million years old -> "
+            },
+            {
+                "text": "4.6 million years old -> ",
+                "match_pair": "4.6 million years old -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "8764",
+        "question_type": "multiple_choice_question",
+        "question_text": "Since temperatures in Earth increase with depth, why is the inner core solid?",
+        "answers": [
+            {
+                "text": "Temperatures increase to a certain point before leveling off below the melting point of the core. -> ",
+                "match_pair": "Temperatures increase to a certain point before leveling off below the melting point of the core. -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "The pressures in the core are immense and keep it in a solid state despite the temperature. -> ",
+                "match_pair": "The pressures in the core are immense and keep it in a solid state despite the temperature. -> "
+            },
+            {
+                "text": "Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> ",
+                "match_pair": "Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> "
+            },
+            {
+                "text": "The inner core is shedding the heat so quickly that melting does not have time to occur. -> ",
+                "match_pair": "The inner core is shedding the heat so quickly that melting does not have time to occur. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "3014",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which of the following describe igneous rocks?",
+        "answers": [
+            {
+                "text": "formed by the lithification of pre-existing rock fragments -> ",
+                "match_pair": "formed by the lithification of pre-existing rock fragments -> "
+            },
+            {
+                "text": "formed by the heating and squeezing of pre-existing rock -> ",
+                "match_pair": "formed by the heating and squeezing of pre-existing rock -> "
+            },
+            {
+                "text": "formed by the melting of sediments -> ",
+                "match_pair": "formed by the melting of sediments -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "formed by the cooling and crystallization of a magma or lava -> ",
+                "match_pair": "formed by the cooling and crystallization of a magma or lava -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "9560",
+        "question_type": "multiple_answers_question",
+        "question_text": "The layers of Earth's geosphere are defined based on which TWO sets of characteristics? (select two)",
+        "answers": [
+            {
+                "text": "density -> ",
+                "match_pair": "density -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "physical properties -> Your Answer: (You left this blank) It was really:",
+                "match_pair": "physical properties -> Your Answer: (You left this blank) It was really:"
+            },
+            {
+                "text": "thickness -> ",
+                "match_pair": "thickness -> "
+            },
+            {
+                "text": "depth -> ",
+                "match_pair": "depth -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "chemical composition -> Your Answer: (You left this blank) It was really:",
+                "match_pair": "chemical composition -> Your Answer: (You left this blank) It was really:"
+            },
+            {
+                "text": "age -> ",
+                "match_pair": "age -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "6332",
+        "question_type": "multiple_choice_question",
+        "question_text": "Why is data collection important to scientists? (yes \"data\" is a plural)",
+        "answers": [
+            {
+                "text": "data are used to observe a theory -> ",
+                "match_pair": "data are used to observe a theory -> "
+            },
+            {
+                "text": "data are used to formulate a method -> ",
+                "match_pair": "data are used to formulate a method -> "
+            },
+            {
+                "text": "data are used to discover a hypothesis -> ",
+                "match_pair": "data are used to discover a hypothesis -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "data are used to support or disprove a hypothesis -> ",
+                "match_pair": "data are used to support or disprove a hypothesis -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "9602",
+        "question_type": "multiple_choice_question",
+        "question_text": "Oceanic crust is _________ than continental crust.",
+        "answers": [
+            {
+                "text": "thicker -> ",
+                "match_pair": "thicker -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "denser -> ",
+                "match_pair": "denser -> "
+            },
+            {
+                "text": "higher -> ",
+                "match_pair": "higher -> "
+            },
+            {
+                "text": "less dense -> ",
+                "match_pair": "less dense -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "8812",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The \"Big Bang\" describes the formation of the Universe and is estimated to have occurred between 10 billion and 15 billion years ago .",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "the formation of the Universe -> ",
+                "match_pair": "the formation of the Universe -> "
+            },
+            {
+                "text": "the formation of our Solar System -> ",
+                "match_pair": "the formation of our Solar System -> "
+            },
+            {
+                "text": "a TV sitcom -> ",
+                "match_pair": "a TV sitcom -> "
+            },
+            {
+                "text": "the destruction of time and space -> ",
+                "match_pair": "the destruction of time and space -> "
+            },
+            {
+                "text": "between 2 billion and 5 billion years ago -> ",
+                "match_pair": "between 2 billion and 5 billion years ago -> "
+            },
+            {
+                "text": "between 250 million and 400 million years ago -> ",
+                "match_pair": "between 250 million and 400 million years ago -> "
+            },
+            {
+                "text": "between 5,000 and 10,000 years ago -> ",
+                "match_pair": "between 5,000 and 10,000 years ago -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "between 10 billion and 15 billion years ago -> ",
+                "match_pair": "between 10 billion and 15 billion years ago -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "6636",
+        "question_type": "matching_question",
+        "question_text": "Match the following rock types with their appropriate definitions.",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "rocks formed by the cooling/crystallization of molten rock -> igneous",
+                "match_pair": "rocks formed by the cooling/crystallization of molten rock -> igneous"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "rocks formed by intense heating and/or increase in pressure of pre-existing rock -> metamorphic",
+                "match_pair": "rocks formed by intense heating and/or increase in pressure of pre-existing rock -> metamorphic"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "rocks formed by the compaction and cementation of smaller rock fragments -> sedimentary",
+                "match_pair": "rocks formed by the compaction and cementation of smaller rock fragments -> sedimentary"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "465",
+        "question_type": "matching_question",
+        "question_text": "On the following map, a-e point directly to either oceanic or continental crust. Choose the correct crust type for each.",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "a -> oceanic crust",
+                "match_pair": "a -> oceanic crust"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "b -> continental crust",
+                "match_pair": "b -> continental crust"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "c -> continental crust",
+                "match_pair": "c -> continental crust"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "d -> oceanic crust",
+                "match_pair": "d -> oceanic crust"
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "e -> oceanic crust",
+                "match_pair": "e -> oceanic crust"
+            },
+            {
+                "text": " -> continental crust",
+                "match_pair": " -> continental crust"
+            },
+            {
+                "is_correct": true,
+                "text": "continental crust"
+            }
+        ]
+    }
+]

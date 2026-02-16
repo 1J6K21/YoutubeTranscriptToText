@@ -1,0 +1,430 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "8090",
+        "question_type": "multiple_choice_question",
+        "question_text": "Why are volcanic rocks often exposed at Earth's surface as hills, ridges, and mountains surrounded by areas of lower elevation?",
+        "answers": [
+            {
+                "text": "Volcanic rocks are often older than surrounding rock. -> ",
+                "match_pair": "Volcanic rocks are often older than surrounding rock. -> "
+            },
+            {
+                "is_correct": true,
+                "text": "Volcanic rocks are often more resistant to erosion than surrounding rock. -> ",
+                "match_pair": "Volcanic rocks are often more resistant to erosion than surrounding rock. -> "
+            },
+            {
+                "text": "Volcanic rocks are often more susceptible to erosion than surrounding rock. -> ",
+                "match_pair": "Volcanic rocks are often more susceptible to erosion than surrounding rock. -> "
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "Volcanic rocks are often younger than surrounding rock. -> ",
+                "match_pair": "Volcanic rocks are often younger than surrounding rock. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "4408",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Based on the following definitions, match the correct state of a volcano (ie. active, dormant, or extinct). You may use each more than once. [ Select ] [\"extinct\", \"dormant\", \"active\"] volcanoes are those that are currently erupting. [ Select ] [\"active\", \"dormant\", \"extinct\"] volcanoes are those that are not capable of erupting. [ Select ] [\"extinct\", \"active\", \"dormant\"] volcanoes are those that have recently erupted. [ Select ] [\"dormant\", \"extinct\", \"active\"] volcanoes are those that have not erupted in hundreds or thousands of years.",
+        "dropdown_options": [
+            [
+                "extinct",
+                "dormant",
+                "active"
+            ],
+            [
+                "active",
+                "dormant",
+                "extinct"
+            ],
+            [
+                "extinct",
+                "active",
+                "dormant"
+            ],
+            [
+                "dormant",
+                "extinct",
+                "active"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "extinct -> ",
+                "match_pair": "extinct -> "
+            },
+            {
+                "text": "dormant -> ",
+                "match_pair": "dormant -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "active -> ",
+                "match_pair": "active -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "9420",
+        "question_type": "multiple_answers_question",
+        "question_text": "In the Mastering Geology assignment this week, we learned about Flood Basalts. One example was the Columbia River Flood Basalt Province. Which of the following are true about these flood basalts? (Select all that apply)",
+        "answers": [
+            {
+                "text": "These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> ",
+                "match_pair": "These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank) It was really:",
+                "match_pair": "The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank) It was really:"
+            },
+            {
+                "text": "These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> ",
+                "match_pair": "These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank) It was really:",
+                "match_pair": "The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank) It was really:"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank) It was really:",
+                "match_pair": "Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank) It was really:"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "1612",
+        "question_type": "multiple_choice_question",
+        "question_text": "Based on the hazard map of Mt. Rainier below, which of the following volcanic hazards has the furthest reaching effects (meaning, which hazard will affect people the greatest distance from the volcano)?",
+        "answers": [
+            {
+                "text": "pyroclastic flows -> ",
+                "match_pair": "pyroclastic flows -> "
+            },
+            {
+                "text": "volcanic gasses -> ",
+                "match_pair": "volcanic gasses -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "lahars -> ",
+                "match_pair": "lahars -> "
+            },
+            {
+                "text": "lava flows -> ",
+                "match_pair": "lava flows -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "4261",
+        "question_type": "multiple_choice_question",
+        "question_text": "Identify the FALSE statement about lahar flow hazards.",
+        "answers": [
+            {
+                "text": "They are strong enough to carry away large trees and buildings. -> ",
+                "match_pair": "They are strong enough to carry away large trees and buildings. -> "
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "They can occur even when a volcanic eruption is not occurring or has not occurred in awhile. -> ",
+                "match_pair": "They can occur even when a volcanic eruption is not occurring or has not occurred in awhile. -> "
+            },
+            {
+                "is_correct": true,
+                "text": "Lahars occur when hot lava mixes with water and flows away from the volcano along river channels. -> ",
+                "match_pair": "Lahars occur when hot lava mixes with water and flows away from the volcano along river channels. -> "
+            },
+            {
+                "text": "Lahars are flows of volcanic material and water, the viscosity of which resembles concrete. -> ",
+                "match_pair": "Lahars are flows of volcanic material and water, the viscosity of which resembles concrete. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "3180",
+        "question_type": "multiple_choice_question",
+        "question_text": "The volcanic islands in the above figure were created as the tectonic plate passed over a hot spot in the mantle. Based on the ages of the volcanic islands, in what direction was the tectonic plate moving toward?",
+        "answers": [
+            {
+                "text": "east -> ",
+                "match_pair": "east -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "west -> ",
+                "match_pair": "west -> "
+            },
+            {
+                "text": "north -> ",
+                "match_pair": "north -> "
+            },
+            {
+                "text": "south -> ",
+                "match_pair": "south -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "4672",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Continental rifts produce magma that is formed by [ Select ] [\"volatile\", \"decompression\", \"heat transfer\"] melting in the mantle with felsic magmas produced by [ Select ] [\"partial melting of continental crust\", \"partial melting and fractionation of the mantle\", \"partial melting of the mantle\"] .",
+        "dropdown_options": [
+            [
+                "volatile",
+                "decompression",
+                "heat transfer"
+            ],
+            [
+                "partial melting of continental crust",
+                "partial melting and fractionation of the mantle",
+                "partial melting of the mantle"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "volatile -> ",
+                "match_pair": "volatile -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "decompression -> ",
+                "match_pair": "decompression -> "
+            },
+            {
+                "text": "heat transfer -> ",
+                "match_pair": "heat transfer -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "partial melting of continental crust -> ",
+                "match_pair": "partial melting of continental crust -> "
+            },
+            {
+                "text": "partial melting and fractionation of the mantle -> ",
+                "match_pair": "partial melting and fractionation of the mantle -> "
+            },
+            {
+                "text": "partial melting of the mantle -> ",
+                "match_pair": "partial melting of the mantle -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "6178",
+        "question_type": "multiple_choice_question",
+        "question_text": "Identify the FALSE statement about volcanic ash hazards.",
+        "answers": [
+            {
+                "text": "Large deposits of ash is heavy, and can cause roof collapse. -> ",
+                "match_pair": "Large deposits of ash is heavy, and can cause roof collapse. -> "
+            },
+            {
+                "text": "Ash can bury landscapes and kill crops surrounding a volcano. -> ",
+                "match_pair": "Ash can bury landscapes and kill crops surrounding a volcano. -> "
+            },
+            {
+                "text": "It is gritty and can cause car or airplane engine failure if it gets into the engines. -> ",
+                "match_pair": "It is gritty and can cause car or airplane engine failure if it gets into the engines. -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "It is not hazardous if breathed in because the size of particles is too small. -> ",
+                "match_pair": "It is not hazardous if breathed in because the size of particles is too small. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "7636",
+        "question_type": "multiple_choice_question",
+        "question_text": "Identify the FALSE statement about pyroclastic flow hazards.",
+        "answers": [
+            {
+                "is_correct": true,
+                "text": "They can flow up to 100 km away from a volcano. -> ",
+                "match_pair": "They can flow up to 100 km away from a volcano. -> "
+            },
+            {
+                "text": "They are one of the most dangerous of volcanic hazards. -> ",
+                "match_pair": "They are one of the most dangerous of volcanic hazards. -> "
+            },
+            {
+                "text": "They are composed of volcanic ash, gas, and tephra. -> ",
+                "match_pair": "They are composed of volcanic ash, gas, and tephra. -> "
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "They can flow uphill. -> ",
+                "match_pair": "They can flow uphill. -> "
+            },
+            {
+                "text": "They move faster than a car can drive. -> ",
+                "match_pair": "They move faster than a car can drive. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "5152",
+        "question_type": "multiple_choice_question",
+        "question_text": "Mauna Loa on Hawaii is an example of:",
+        "answers": [
+            {
+                "text": "a lava dome -> ",
+                "match_pair": "a lava dome -> "
+            },
+            {
+                "text": "a stratovolcano -> ",
+                "match_pair": "a stratovolcano -> "
+            },
+            {
+                "text": "a cinder cone -> ",
+                "match_pair": "a cinder cone -> "
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "a shield volcano -> ",
+                "match_pair": "a shield volcano -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "5900",
+        "question_type": "multiple_choice_question",
+        "question_text": "What main hazard do lava flows pose to humans?",
+        "answers": [
+            {
+                "is_correct": true,
+                "text": "destruction of immovable property -> ",
+                "match_pair": "destruction of immovable property -> "
+            },
+            {
+                "text": "lava flows create new land that can eventually be used productively by humans. -> ",
+                "match_pair": "lava flows create new land that can eventually be used productively by humans. -> "
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "lava flows usually are very fast and cannot be outrun -> ",
+                "match_pair": "lava flows usually are very fast and cannot be outrun -> "
+            },
+            {
+                "text": "death by high heat -> ",
+                "match_pair": "death by high heat -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 12",
+        "question_id": "9212",
+        "question_type": "matching_question",
+        "question_text": "For each of the tectonic settings listed below, choose the most likely form of melting you would expect to see.",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "mid-ocean ridge -> decompression melting",
+                "match_pair": "mid-ocean ridge -> decompression melting"
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "felsic magma in a continental rift -> decompression melting",
+                "match_pair": "felsic magma in a continental rift -> decompression melting"
+            },
+            {
+                "text": " -> heat-transfer melting",
+                "match_pair": " -> heat-transfer melting"
+            },
+            {
+                "is_correct": true,
+                "text": "heat-transfer melting"
+            },
+            {
+                "is_selected": true,
+                "is_wrong": true,
+                "text": "oceanic hot spot -> heat-transfer melting",
+                "match_pair": "oceanic hot spot -> heat-transfer melting"
+            },
+            {
+                "text": " -> decompression melting",
+                "match_pair": " -> decompression melting"
+            },
+            {
+                "is_correct": true,
+                "text": "decompression melting"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "subduction zone -> volatile melting",
+                "match_pair": "subduction zone -> volatile melting"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "continent-continent collision -> no melting",
+                "match_pair": "continent-continent collision -> no melting"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 13",
+        "question_id": "3625",
+        "question_type": "matching_question",
+        "question_text": "Considering a mafic melt, define the following magma properties as compared to a felsic melt. For example: gas content = lower because a mafic magma typically has a lower gas content than a felsic magma.",
+        "answers": [
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "silica content -> lower",
+                "match_pair": "silica content -> lower"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "viscosity -> lower",
+                "match_pair": "viscosity -> lower"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "tendency to produce pyroclastic material -> lower",
+                "match_pair": "tendency to produce pyroclastic material -> lower"
+            },
+            {
+                "is_correct": true,
+                "is_selected": true,
+                "text": "eruptive temperature -> higher",
+                "match_pair": "eruptive temperature -> higher"
+            }
+        ]
+    }
+]

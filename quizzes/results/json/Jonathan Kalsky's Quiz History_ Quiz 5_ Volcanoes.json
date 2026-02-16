@@ -1,0 +1,352 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "6829",
+        "question_type": "multiple_choice_question",
+        "question_text": "The volcanic islands in the above figure were created as the tectonic plate passed over a hot spot in the mantle. Based on the ages of the volcanic islands, in what direction was the tectonic plate moving toward?",
+        "answers": [
+            {
+                "text": "north -> ",
+                "match_pair": "north -> "
+            },
+            {
+                "text": "south -> ",
+                "match_pair": "south -> "
+            },
+            {
+                "text": "west -> ",
+                "match_pair": "west -> "
+            },
+            {
+                "is_selected": true,
+                "text": "east -> ",
+                "match_pair": "east -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "9394",
+        "question_type": "multiple_choice_question",
+        "question_text": "Based on the hazard map of Mt. Rainier below, which of the following volcanic hazards has the furthest reaching effects (meaning, which hazard will affect people the greatest distance from the volcano)?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "lahars -> ",
+                "match_pair": "lahars -> "
+            },
+            {
+                "text": "pyroclastic flows -> ",
+                "match_pair": "pyroclastic flows -> "
+            },
+            {
+                "text": "volcanic gasses -> ",
+                "match_pair": "volcanic gasses -> "
+            },
+            {
+                "text": "lava flows -> ",
+                "match_pair": "lava flows -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "4672",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Continental rifts produce magma that is formed by [ Select ] [\"volatile\", \"decompression\", \"heat transfer\"] melting in the mantle with felsic magmas produced by [ Select ] [\"partial melting of continental crust\", \"partial melting and fractionation of the mantle\", \"partial melting of the mantle\"] .",
+        "dropdown_options": [
+            [
+                "volatile",
+                "decompression",
+                "heat transfer"
+            ],
+            [
+                "partial melting of continental crust",
+                "partial melting and fractionation of the mantle",
+                "partial melting of the mantle"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "volatile -> ",
+                "match_pair": "volatile -> "
+            },
+            {
+                "is_selected": true,
+                "text": "decompression -> ",
+                "match_pair": "decompression -> "
+            },
+            {
+                "text": "heat transfer -> ",
+                "match_pair": "heat transfer -> "
+            },
+            {
+                "is_selected": true,
+                "text": "partial melting of continental crust -> ",
+                "match_pair": "partial melting of continental crust -> "
+            },
+            {
+                "text": "partial melting and fractionation of the mantle -> ",
+                "match_pair": "partial melting and fractionation of the mantle -> "
+            },
+            {
+                "text": "partial melting of the mantle -> ",
+                "match_pair": "partial melting of the mantle -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "5134",
+        "question_type": "multiple_choice_question",
+        "question_text": "Mauna Loa on Hawaii is an example of:",
+        "answers": [
+            {
+                "text": "a cinder cone -> ",
+                "match_pair": "a cinder cone -> "
+            },
+            {
+                "text": "a lava dome -> ",
+                "match_pair": "a lava dome -> "
+            },
+            {
+                "is_selected": true,
+                "text": "a shield volcano -> ",
+                "match_pair": "a shield volcano -> "
+            },
+            {
+                "text": "a stratovolcano -> ",
+                "match_pair": "a stratovolcano -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "9420",
+        "question_type": "multiple_answers_question",
+        "question_text": "In the Mastering Geology assignment this week, we learned about Flood Basalts. One example was the Columbia River Flood Basalt Province. Which of the following are true about these flood basalts? (Select all that apply)",
+        "answers": [
+            {
+                "text": "These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> ",
+                "match_pair": "These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank)",
+                "match_pair": "Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank)",
+                "match_pair": "The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> ",
+                "match_pair": "These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank)",
+                "match_pair": "The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank)"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "7394",
+        "question_type": "multiple_choice_question",
+        "question_text": "Are rhyolite eruptions always explosive?",
+        "answers": [
+            {
+                "text": "Yes, their high viscosity and high volatile content means they will always explode. -> ",
+                "match_pair": "Yes, their high viscosity and high volatile content means they will always explode. -> "
+            },
+            {
+                "text": "No, they are never explosive. -> ",
+                "match_pair": "No, they are never explosive. -> "
+            },
+            {
+                "text": "Yes, even when an eruption starts off effusive, it will always eventually explode due to a build up of pressure. -> ",
+                "match_pair": "Yes, even when an eruption starts off effusive, it will always eventually explode due to a build up of pressure. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "No, sometimes they produce lava domes that erupt very slowly over many years. -> ",
+                "match_pair": "No, sometimes they produce lava domes that erupt very slowly over many years. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "926",
+        "question_type": "multiple_choice_question",
+        "question_text": "At which tectonic setting so most volcanoes exist?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "convergent-subduction -> ",
+                "match_pair": "convergent-subduction -> "
+            },
+            {
+                "text": "convergent-collision -> ",
+                "match_pair": "convergent-collision -> "
+            },
+            {
+                "text": "divergent -> ",
+                "match_pair": "divergent -> "
+            },
+            {
+                "text": "hot spot -> ",
+                "match_pair": "hot spot -> "
+            },
+            {
+                "text": "transform -> ",
+                "match_pair": "transform -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "1032",
+        "question_type": "multiple_choice_question",
+        "question_text": "True or False. Landslides can cause volcanic eruptions even in extinct volcanoes.",
+        "answers": [
+            {
+                "text": "True -> ",
+                "match_pair": "True -> "
+            },
+            {
+                "is_selected": true,
+                "text": "False -> ",
+                "match_pair": "False -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "5817",
+        "question_type": "multiple_choice_question",
+        "question_text": "In which of the following lava types would you expect to see the development of pahoehoe?",
+        "answers": [
+            {
+                "text": "rhyolite -> ",
+                "match_pair": "rhyolite -> "
+            },
+            {
+                "is_selected": true,
+                "text": "basalt -> ",
+                "match_pair": "basalt -> "
+            },
+            {
+                "text": "andesite -> ",
+                "match_pair": "andesite -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "83",
+        "question_type": "multiple_choice_question",
+        "question_text": "The main difference between lavas that form pahoehoe texture and lavas that form a'a' texture is:",
+        "answers": [
+            {
+                "text": "gas content -> ",
+                "match_pair": "gas content -> "
+            },
+            {
+                "text": "composition -> ",
+                "match_pair": "composition -> "
+            },
+            {
+                "is_selected": true,
+                "text": "temperature -> ",
+                "match_pair": "temperature -> "
+            },
+            {
+                "text": "tectonic setting -> ",
+                "match_pair": "tectonic setting -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "3405",
+        "question_type": "multiple_choice_question",
+        "question_text": "Identify the FALSE statement about volcanic gas hazards.",
+        "answers": [
+            {
+                "text": "Sulfur volcanic gasses smell like rotten eggs, but that smell can disappear at high concentrations making if difficult to know if you are being exposed. -> ",
+                "match_pair": "Sulfur volcanic gasses smell like rotten eggs, but that smell can disappear at high concentrations making if difficult to know if you are being exposed. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "All volcanic gasses are toxic to people living near volcanoes. -> ",
+                "match_pair": "All volcanic gasses are toxic to people living near volcanoes. -> "
+            },
+            {
+                "text": "Carbon dioxide gas is more dense than air. -> ",
+                "match_pair": "Carbon dioxide gas is more dense than air. -> "
+            },
+            {
+                "text": "Volcanic gasses can combine in the atmosphere to cause climate change. -> ",
+                "match_pair": "Volcanic gasses can combine in the atmosphere to cause climate change. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 12",
+        "question_id": "9212",
+        "question_type": "matching_question",
+        "question_text": "For each of the tectonic settings listed below, choose the most likely form of melting you would expect to see.",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "mid-ocean ridge -> volatile melting",
+                "match_pair": "mid-ocean ridge -> volatile melting"
+            },
+            {
+                "is_selected": true,
+                "text": "felsic magma in a continental rift -> decompression melting",
+                "match_pair": "felsic magma in a continental rift -> decompression melting"
+            },
+            {
+                "is_selected": true,
+                "text": "oceanic hot spot -> heat-transfer melting",
+                "match_pair": "oceanic hot spot -> heat-transfer melting"
+            },
+            {
+                "is_selected": true,
+                "text": "subduction zone -> volatile melting",
+                "match_pair": "subduction zone -> volatile melting"
+            },
+            {
+                "is_selected": true,
+                "text": "continent-continent collision -> no melting",
+                "match_pair": "continent-continent collision -> no melting"
+            }
+        ]
+    },
+    {
+        "question_number": "Question 13",
+        "question_id": "5671",
+        "question_type": "matching_question",
+        "question_text": "Match each of the following ocean features with their tectonic setting.",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "seamounts -> hot spots",
+                "match_pair": "seamounts -> hot spots"
+            },
+            {
+                "is_selected": true,
+                "text": "island arcs -> subduction zone",
+                "match_pair": "island arcs -> subduction zone"
+            },
+            {
+                "is_selected": true,
+                "text": "mid-ocean ridge -> divergent plate boundary",
+                "match_pair": "mid-ocean ridge -> divergent plate boundary"
+            }
+        ]
+    }
+]

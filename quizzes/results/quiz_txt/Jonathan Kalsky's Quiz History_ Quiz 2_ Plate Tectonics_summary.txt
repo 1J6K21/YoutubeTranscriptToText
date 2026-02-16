@@ -1,0 +1,136 @@
+Question 1: Where in the ocean does oceanic lithosphere sink into the mantle?
+Type: multiple_choice_question
+Answers:
+  [ ] at fracture zones -> 
+  [ ] at continental shelves -> 
+  [x] (Selected) at ocean trenches -> 
+  [ ] at abyssal plains -> 
+  [ ] at mid-ocean ridges -> 
+
+----------------------------------------
+
+Question 2: Using the map below, which of these locations is located on a divergent plate boundary?
+Type: multiple_choice_question
+Answers:
+  [ ] Hawaii -> 
+  [ ] Chile -> 
+  [ ] Japan -> 
+  [x] (Selected) Iceland -> 
+
+----------------------------------------
+
+Question 3: Use the map of G P S velocities below and indicate which of the following plates is moving the slowest.(hint: the size of the arrows are correlated with the speed of the plate. For example: big arrow = fast)
+Type: multiple_choice_question
+Answers:
+  [ ] Caribbean -> 
+  [ ] Australian-Indian -> 
+  [ ] Nazca -> 
+  [x] (Selected) North American -> 
+  [ ] African -> 
+
+----------------------------------------
+
+Question 4: To what type of feature is the arrow below pointing to on this Google Earth image?
+Type: multiple_choice_question
+Answers:
+  [ ] a seamount chain -> 
+  [ ] a hot-spot track -> 
+  [x] (Selected) an oceanic trench -> 
+  [ ] Earth's core (seriously don't pick this one) -> 
+  [ ] a mountain chain -> 
+  [ ] a mid-ocean ridge -> 
+
+----------------------------------------
+
+Question 5: Why can’t scientists retrieve information about the Atlantic Ocean basin that is older than roughly 200 million years?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) Sediments of that age are too deeply buried. -> 
+  [ ] Sediments of that age do not provide much information. -> 
+  [ ] Seawater has affected the sediments for too long. -> 
+  [ ] There was no Atlantic Ocean 200 million years ago. -> 
+  [ ] The technology is not yet available. -> 
+
+----------------------------------------
+
+Question 6: ______ is a feature of a divergent plate boundary. (select all that apply)
+Type: multiple_answers_question
+Answers:
+  [x] (Selected) An ocean ridge -> Your Answer: (You left this blank)
+  [x] (Selected) A rift valley -> Your Answer: (You left this blank)
+  [ ] A subduction zone -> 
+  [ ] A volcanic arc -> 
+  [ ] A deep-ocean trench -> 
+
+----------------------------------------
+
+Question 7: Continental crust is mainly composed of granite/granodiorite , whereas oceanic crust is mainly composed of basalt .
+Type: multiple_dropdowns_question
+Answers:
+  [ ] peridotite -> 
+  [ ] basalt -> 
+  [x] (Selected) granite/granodiorite -> 
+  [ ] quartz -> 
+
+----------------------------------------
+
+Question 8: The angle difference between magnetic north and true north is called declination . Inclination is the angle of a magnetic needle or magnetic mineral relative to the Earth's surface and tells us the latitude at which a magnetic mineral formed or at which the compass needle is currently located.
+Type: multiple_dropdowns_question
+Answers:
+  [ ] inclination -> 
+  [x] (Selected) declination -> 
+  [ ] intuition -> 
+  [ ] delineation -> 
+  [ ] Declination -> 
+  [ ] Delineation -> 
+  [x] (Selected) Inclination -> 
+  [ ] Intuition -> 
+
+----------------------------------------
+
+Question 9: The major difference between oceanic-oceanic convergence and oceanic-continental convergence is that: oceanic-oceanic convergence produces [ Select ] ["a continental volcanic arc", "a trench", "a volcanic island arc", "a mountain belt"] and oceanic-continental convergence produces [ Select ] ["a volcanic island arc", "a continental volcanic arc", "a mountain belt", "a trench"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - a continental volcanic arc, a trench, a volcanic island arc, a mountain belt
+  - a volcanic island arc, a continental volcanic arc, a mountain belt, a trench
+Answers:
+  [ ] a continental volcanic arc -> 
+  [ ] a trench -> 
+  [x] (Selected) a volcanic island arc -> 
+  [ ] a mountain belt -> 
+
+----------------------------------------
+
+Question 10: Match the following geologic features on Earth with their tectonic boundary. You will not use all boundaries.
+Type: matching_question
+Answers:
+  [x] (Selected) The Himalayas -> continent-continent convergence
+  [x] (Selected) Cascade Mountains -> continent–ocean convergence
+  [x] (Selected) Mt. Kilimanjaro, East Africa -> continental rift
+  [x] (Selected) San Andreas fault -> transform
+
+----------------------------------------
+
+Question 11: When Earth's magnetic field reverses polarity, it is recorded in [ Select ] ["fossils", "volcanoes", "oceanic crust"] formed at that time. Paleomagnetic researchers of the find fairly [ Select ] ["symmetric", "indistinguishable", "asymmetric"] patterns of alternating magnetism that parallel [ Select ] ["oceanic trenches", "mid-ocean ridges", "mountain belts"] . Such a pattern forms when an older crust is carried away in an opposite directions by [ Select ] ["continental drift", "sea-floor spreading", "aliens"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - fossils, volcanoes, oceanic crust
+  - symmetric, indistinguishable, asymmetric
+  - oceanic trenches, mid-ocean ridges, mountain belts
+  - continental drift, sea-floor spreading, aliens
+Answers:
+  [ ] fossils -> 
+  [ ] volcanoes -> 
+  [x] (Selected) oceanic crust -> 
+  [x] (Selected) symmetric -> 
+  [ ] indistinguishable -> 
+  [ ] asymmetric -> 
+  [ ] oceanic trenches -> 
+  [x] (Selected) mid-ocean ridges -> 
+  [ ] mountain belts -> 
+  [ ] continental drift -> 
+  [x] (Selected) sea-floor spreading -> 
+  [ ] aliens -> 
+
+----------------------------------------
+

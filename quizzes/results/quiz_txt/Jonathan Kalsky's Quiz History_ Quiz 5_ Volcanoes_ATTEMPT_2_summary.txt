@@ -1,0 +1,146 @@
+Question 1: Why are volcanic rocks often exposed at Earth's surface as hills, ridges, and mountains surrounded by areas of lower elevation?
+Type: multiple_choice_question
+Answers:
+  [ ] Volcanic rocks are often older than surrounding rock. -> 
+  [x] (Correct) Volcanic rocks are often more resistant to erosion than surrounding rock. -> 
+  [ ] Volcanic rocks are often more susceptible to erosion than surrounding rock. -> 
+  [x] (Selected) Volcanic rocks are often younger than surrounding rock. -> 
+
+----------------------------------------
+
+Question 2: Based on the following definitions, match the correct state of a volcano (ie. active, dormant, or extinct). You may use each more than once. [ Select ] ["extinct", "dormant", "active"] volcanoes are those that are currently erupting. [ Select ] ["active", "dormant", "extinct"] volcanoes are those that are not capable of erupting. [ Select ] ["extinct", "active", "dormant"] volcanoes are those that have recently erupted. [ Select ] ["dormant", "extinct", "active"] volcanoes are those that have not erupted in hundreds or thousands of years.
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - extinct, dormant, active
+  - active, dormant, extinct
+  - extinct, active, dormant
+  - dormant, extinct, active
+Answers:
+  [ ] extinct -> 
+  [ ] dormant -> 
+  [x] (Correct) active -> 
+
+----------------------------------------
+
+Question 3: In the Mastering Geology assignment this week, we learned about Flood Basalts. One example was the Columbia River Flood Basalt Province. Which of the following are true about these flood basalts? (Select all that apply)
+Type: multiple_answers_question
+Answers:
+  [ ] These flood basalts are the result of a single, massive lava flow with the horizontal planes caused by tectonic stresses after solidification. -> 
+  [x] (Correct) The flood basalts have fine grained texture that indicates relatively fast, extrusive cooling. -> Your Answer: (You left this blank) It was really:
+  [ ] These flood basalts are the result of dramatically explosive eruptions that produced lots of pyroclastic material that is intermixed within the layers. -> 
+  [x] (Correct) The relatively flat features of solidified flood basalts is indicative of the very low viscosity of the lava when it was erupted and emplaced. -> Your Answer: (You left this blank) It was really:
+  [x] (Correct) Thick layers of basalt indicate many repeated eruptions of multiple lava flows, with the youngest flows at the top. -> Your Answer: (You left this blank) It was really:
+
+----------------------------------------
+
+Question 4: Based on the hazard map of Mt. Rainier below, which of the following volcanic hazards has the furthest reaching effects (meaning, which hazard will affect people the greatest distance from the volcano)?
+Type: multiple_choice_question
+Answers:
+  [ ] pyroclastic flows -> 
+  [ ] volcanic gasses -> 
+  [x] (Correct) lahars -> 
+  [ ] lava flows -> 
+
+----------------------------------------
+
+Question 5: Identify the FALSE statement about lahar flow hazards.
+Type: multiple_choice_question
+Answers:
+  [ ] They are strong enough to carry away large trees and buildings. -> 
+  [x] (Selected) They can occur even when a volcanic eruption is not occurring or has not occurred in awhile. -> 
+  [x] (Correct) Lahars occur when hot lava mixes with water and flows away from the volcano along river channels. -> 
+  [ ] Lahars are flows of volcanic material and water, the viscosity of which resembles concrete. -> 
+
+----------------------------------------
+
+Question 6: The volcanic islands in the above figure were created as the tectonic plate passed over a hot spot in the mantle. Based on the ages of the volcanic islands, in what direction was the tectonic plate moving toward?
+Type: multiple_choice_question
+Answers:
+  [ ] east -> 
+  [x] (Correct) west -> 
+  [ ] north -> 
+  [ ] south -> 
+
+----------------------------------------
+
+Question 7: Continental rifts produce magma that is formed by [ Select ] ["volatile", "decompression", "heat transfer"] melting in the mantle with felsic magmas produced by [ Select ] ["partial melting of continental crust", "partial melting and fractionation of the mantle", "partial melting of the mantle"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - volatile, decompression, heat transfer
+  - partial melting of continental crust, partial melting and fractionation of the mantle, partial melting of the mantle
+Answers:
+  [ ] volatile -> 
+  [x] (Correct) decompression -> 
+  [ ] heat transfer -> 
+  [x] (Correct) partial melting of continental crust -> 
+  [ ] partial melting and fractionation of the mantle -> 
+  [ ] partial melting of the mantle -> 
+
+----------------------------------------
+
+Question 8: Identify the FALSE statement about volcanic ash hazards.
+Type: multiple_choice_question
+Answers:
+  [ ] Large deposits of ash is heavy, and can cause roof collapse. -> 
+  [ ] Ash can bury landscapes and kill crops surrounding a volcano. -> 
+  [ ] It is gritty and can cause car or airplane engine failure if it gets into the engines. -> 
+  [x] (Correct) It is not hazardous if breathed in because the size of particles is too small. -> 
+
+----------------------------------------
+
+Question 9: Identify the FALSE statement about pyroclastic flow hazards.
+Type: multiple_choice_question
+Answers:
+  [x] (Correct) They can flow up to 100 km away from a volcano. -> 
+  [ ] They are one of the most dangerous of volcanic hazards. -> 
+  [ ] They are composed of volcanic ash, gas, and tephra. -> 
+  [x] (Selected) They can flow uphill. -> 
+  [ ] They move faster than a car can drive. -> 
+
+----------------------------------------
+
+Question 10: Mauna Loa on Hawaii is an example of:
+Type: multiple_choice_question
+Answers:
+  [ ] a lava dome -> 
+  [ ] a stratovolcano -> 
+  [ ] a cinder cone -> 
+  [x] (Correct) a shield volcano -> 
+
+----------------------------------------
+
+Question 11: What main hazard do lava flows pose to humans?
+Type: multiple_choice_question
+Answers:
+  [x] (Correct) destruction of immovable property -> 
+  [ ] lava flows create new land that can eventually be used productively by humans. -> 
+  [x] (Selected) lava flows usually are very fast and cannot be outrun -> 
+  [ ] death by high heat -> 
+
+----------------------------------------
+
+Question 12: For each of the tectonic settings listed below, choose the most likely form of melting you would expect to see.
+Type: matching_question
+Answers:
+  [x] (Correct) mid-ocean ridge -> decompression melting
+  [x] (Selected) felsic magma in a continental rift -> decompression melting
+  [ ]  -> heat-transfer melting
+  [x] (Correct) heat-transfer melting
+  [x] (Selected) oceanic hot spot -> heat-transfer melting
+  [ ]  -> decompression melting
+  [x] (Correct) decompression melting
+  [x] (Correct) subduction zone -> volatile melting
+  [x] (Correct) continent-continent collision -> no melting
+
+----------------------------------------
+
+Question 13: Considering a mafic melt, define the following magma properties as compared to a felsic melt. For example: gas content = lower because a mafic magma typically has a lower gas content than a felsic magma.
+Type: matching_question
+Answers:
+  [x] (Correct) silica content -> lower
+  [x] (Correct) viscosity -> lower
+  [x] (Correct) tendency to produce pyroclastic material -> lower
+  [x] (Correct) eruptive temperature -> higher
+
+----------------------------------------
+

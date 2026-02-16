@@ -1,0 +1,118 @@
+Question 1: Which of the following processes is most likely to form minerals?
+Type: multiple_choice_question
+Answers:
+  [ ] Deposition of mineral at a volcanic vent from ions dissolved in a volcanic gas -> 
+  [ ] Accumulation of minerals produced by humans -> 
+  [x] (Selected) Weathering of rock particles during erosion -> 
+  [ ] Heating water by 10°C or more -> 
+  [ ] Stirring an aqueous solution -> 
+
+----------------------------------------
+
+Question 2: Which statement correctly describes rock-forming minerals and economic minerals?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) Rock-forming minerals consist of a few types of minerals that are abundant in Earth’s crust, whereas economic minerals are less abundant and are used extensively in the manufacture of products. -> 
+  [ ] Silicates are important economic resources and include gypsum, which is used for plaster. Nonsilicate minerals are only important as rock-building minerals. -> 
+  [ ] Economic minerals consist mostly of silicate minerals, whereas rock-building minerals consist mostly of nonsilicates. -> 
+  [ ] Only minerals that are not rock-building minerals can have economic value. -> 
+  [ ] Rock-forming minerals consist of a few types of minerals that are sparse in Earth’s crust, whereas economic minerals are very abundant and are used extensively in the manufacture of products. -> 
+
+----------------------------------------
+
+Question 3: Why does quartz have this pyramid shape?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) This shape results from the ordered crystal structure of SiO2 -> 
+  [ ] These are facets cut by humans to make it look nicer. -> 
+  [ ] Because any mineral that grows into open space has this shape -> 
+  [ ] This forms when quartz grows by precipitation from a solution. -> 
+
+----------------------------------------
+
+Question 4: Sometimes minerals have nice crystal faces that can make them quite valuable to collectors. Minerals can form in this way:
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) providing there is open space for them to grow -> 
+  [ ] only under high pressure -> 
+  [ ] always, they just get broken up during weathering -> 
+  [ ] only in a laboratory -> 
+
+----------------------------------------
+
+Question 5: How do rocks differ from minerals?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) Minerals aggregate to form rocks, but rocks do not aggregate to form minerals. -> 
+  [ ] Some minerals contain amorphous glassy debris or organic matter. However, these components are never found in rocks. -> 
+  [ ] Rocks aggregate to form minerals, but minerals do not aggregate to form rocks. -> 
+  [ ] Minerals can be synthesized, whereas rocks only naturally occur. -> 
+  [ ] Rocks can be synthesized, whereas minerals only naturally occur. -> 
+
+----------------------------------------
+
+Question 6: Which of the following silicate mineral structures has the most silicon relative to oxygen?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) E -> 
+  [ ] A -> 
+  [ ] B -> 
+  [ ] D -> 
+
+----------------------------------------
+
+Question 7: Quartz is a mineral that can be highly varied in color, as shown below. What generally causes variation in color like this?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) impurities or trace concentrations of elements in the crystal structure -> 
+  [ ] differences in the chemical makeup of the quartz -> 
+  [ ] differences in the shape of the crystal -> 
+  [ ] the amount of time the mineral has spent exposed to the Earth's surface (ie. Sunlight) -> 
+
+----------------------------------------
+
+Question 8: Given the periodic table below, are the following elements more likely to gain or lose electron(s) when forming an ion?
+Type: matching_question
+Answers:
+  [x] (Selected) Li-lithium -> lose
+  [x] (Selected) O-oxygen -> gain
+
+----------------------------------------
+
+Question 9: Which of the following are true of light colored silicate minerals? (Select all that apply)
+Type: multiple_answers_question
+Answers:
+  [ ] contain iron and magnesium -> 
+  [x] (Selected) low density -> Your Answer: (You left this blank)
+  [ ] high density -> 
+  [x] (Selected) low melting temperatures -> Your Answer: (You left this blank)
+  [ ] high melting temperatures -> 
+  [ ] common in Earth's oceanic crust -> 
+  [x] (Selected) common in Earth's continental crust -> Your Answer: (You left this blank)
+
+----------------------------------------
+
+Question 10: Which of the following are true about the minerals diamond and graphite? (Select all that apply)
+Type: multiple_answers_question
+Answers:
+  [x] (Selected) They are polymorphs, meaning they have the same chemical composition but different structures. -> Your Answer: (You left this blank)
+  [x] (Selected) Graphite is used for pencil lead. -> Your Answer: (You left this blank)
+  [x] (Selected) Diamond forms at very high pressures deep in the Earth, and graphite forms at lower pressures. -> Your Answer: (You left this blank)
+  [ ] Because they have the same composition, they are the same mineral. -> 
+  [ ] Graphite is softer than diamond because it contains weaker bonds. -> 
+
+----------------------------------------
+
+Question 11: Which of the following are true of dark colored silicate minerals? (Select all that apply)
+Type: multiple_answers_question
+Answers:
+  [x] (Selected) contain iron and magnesium -> Your Answer: (You left this blank)
+  [x] (Selected) high density -> Your Answer: (You left this blank)
+  [ ] low density -> 
+  [ ] low melting temperature -> 
+  [x] (Selected) high melting temperature -> Your Answer: (You left this blank)
+  [x] (Selected) common in Earth's oceanic crust -> Your Answer: (You left this blank)
+  [ ] common in Earth's continental crust -> 
+
+----------------------------------------
+

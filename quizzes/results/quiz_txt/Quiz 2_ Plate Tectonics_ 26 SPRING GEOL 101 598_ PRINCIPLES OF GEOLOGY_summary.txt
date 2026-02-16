@@ -1,0 +1,136 @@
+Question 1: Where in the ocean does oceanic lithosphere sink into the mantle?
+Type: multiple_choice_question
+Answers:
+  [ ] at continental shelves -> 
+  [ ] at mid-ocean ridges -> 
+  [ ] at fracture zones -> 
+  [x] (Correct) at ocean trenches -> 
+  [ ] at abyssal plains -> 
+
+----------------------------------------
+
+Question 2: To what type of feature is the arrow below pointing to on this Google Earth image?
+Type: multiple_choice_question
+Answers:
+  [ ] a mid-ocean ridge -> 
+  [ ] a mountain chain -> 
+  [ ] a hot-spot track -> 
+  [x] (Correct) an oceanic trench -> 
+  [ ] a seamount chain -> 
+  [ ] Earth's core (seriously don't pick this one) -> 
+
+----------------------------------------
+
+Question 3: Continental crust is mainly composed of [ Select ] ["quartz", "peridotite", "granite/granodiorite", "basalt"] , whereas oceanic crust is mainly composed of [ Select ] ["peridotite", "basalt", "granite/granodiorite", "quartz"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - quartz, peridotite, granite/granodiorite, basalt
+  - peridotite, basalt, granite/granodiorite, quartz
+Answers:
+  [ ] quartz -> 
+  [ ] peridotite -> 
+  [x] (Correct) granite/granodiorite -> 
+  [ ] basalt -> 
+
+----------------------------------------
+
+Question 4: A typical rate of plate motion is:
+Type: multiple_choice_question
+Answers:
+  [ ] ~3 meters/year -> 
+  [x] (Correct) ~3 centimeters/year -> 
+  [ ] ~3 millimeters/year -> 
+  [ ] ~3 kilometers/year -> 
+
+----------------------------------------
+
+Question 5: The early-twentieth-century hypothesis ( [ Select ] ["continental drift", "plate tectonic theory", "nebular theory", "sea floor spreading"] ) was at first rejected by geologists, but in the 1960s it was replaced by the more comprehensive [ Select ] ["sea floor spreading", "continental drift", "nebular theory", "plate tectonic theory"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - continental drift, plate tectonic theory, nebular theory, sea floor spreading
+  - sea floor spreading, continental drift, nebular theory, plate tectonic theory
+Answers:
+  [x] (Correct) continental drift -> 
+  [ ] plate tectonic theory -> 
+  [ ] nebular theory -> 
+  [ ] sea floor spreading -> 
+
+----------------------------------------
+
+Question 6: Rigid lithospheric plates move _______.
+Type: multiple_choice_question
+Answers:
+  [ ] as they float on oceanic crust -> 
+  [x] (Correct) over the more ductile asthenosphere -> 
+  [ ] on the hotter mantle peridotite -> 
+  [ ] due to tidal forces -> 
+
+----------------------------------------
+
+Question 7: How can hot spots leave evidence of plate motion?
+Type: multiple_choice_question
+Answers:
+  [ ] Polar wandering creates hot spot patterns, showing plate motion -> 
+  [ ] Hot spots move, indicating plate tectonics is occurring -> 
+  [x] (Correct) Hot spot tracks of volcanic islands are created as plates move over mantle plumes -> 
+  [ ] Hot spots are always found at plate boundaries -> 
+
+----------------------------------------
+
+Question 8: The angle difference between magnetic north and true north is called declination . Inclination is the angle of a magnetic needle or magnetic mineral relative to the Earth's surface and tells us the latitude at which a magnetic mineral formed or at which the compass needle is currently located.
+Type: multiple_dropdowns_question
+Answers:
+  [ ] intuition -> 
+  [x] (Correct) declination -> 
+  [ ] delineation -> 
+  [ ] inclination -> 
+  [ ] Declination -> 
+  [ ] Delineation -> 
+  [ ] Intuition -> 
+  [x] (Correct) Inclination -> 
+
+----------------------------------------
+
+Question 9: When Earth's magnetic field reverses polarity, it is recorded in [ Select ] ["volcanoes", "fossils", "oceanic crust"] formed at that time. Paleomagnetic researchers of the find fairly [ Select ] ["indistinguishable", "asymmetric", "symmetric"] patterns of alternating magnetism that parallel [ Select ] ["mid-ocean ridges", "oceanic trenches", "mountain belts"] . Such a pattern forms when an older crust is carried away in an opposite directions by [ Select ] ["continental drift", "aliens", "sea-floor spreading"] .
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - volcanoes, fossils, oceanic crust
+  - indistinguishable, asymmetric, symmetric
+  - mid-ocean ridges, oceanic trenches, mountain belts
+  - continental drift, aliens, sea-floor spreading
+Answers:
+  [ ] volcanoes -> 
+  [ ] fossils -> 
+  [x] (Correct) oceanic crust -> 
+  [ ] indistinguishable -> 
+  [ ] asymmetric -> 
+  [x] (Correct) symmetric -> 
+  [x] (Correct) mid-ocean ridges -> 
+  [ ] oceanic trenches -> 
+  [ ] mountain belts -> 
+  [ ] continental drift -> 
+  [ ] aliens -> 
+  [x] (Correct) sea-floor spreading -> 
+
+----------------------------------------
+
+Question 10: Match the following geologic features on Earth with their tectonic boundary. You will not use all boundaries.
+Type: matching_question
+Answers:
+  [x] (Correct) The Himalayas -> continent-continent convergence
+  [x] (Correct) Cascade Mountains -> continent–ocean convergence
+  [x] (Correct) Mt. Kilimanjaro, East Africa -> continental rift
+  [x] (Correct) San Andreas fault -> transform
+
+----------------------------------------
+
+Question 11: The major difference between oceanic-oceanic convergence and oceanic-continental convergence is that: oceanic-oceanic convergence produces a volcanic island arc and oceanic-continental convergence produces a continental volcanic arc .
+Type: multiple_dropdowns_question
+Answers:
+  [ ] a mountain belt -> 
+  [x] (Correct) a volcanic island arc -> 
+  [ ] a trench -> 
+  [ ] a continental volcanic arc -> 
+
+----------------------------------------
+

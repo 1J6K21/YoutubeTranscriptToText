@@ -1,0 +1,118 @@
+Question 1: The Earth's magnetic field is generated where?
+Type: multiple_choice_question
+Answers:
+  [ ] Earth's atmosphere -> 
+  [ ] Earth's mantle -> 
+  [x] (Selected) Earth's core -> 
+  [ ] the Sun -> 
+
+----------------------------------------
+
+Question 2: Which of the following describes metamorphic rocks?
+Type: multiple_choice_question
+Answers:
+  [ ] formed by the lithification of pre-existing rock fragments -> 
+  [ ] formed by the cooling and crystallization of a magma or lava -> 
+  [x] (Selected) formed by the heating and squeezing of pre-existing rock -> 
+  [ ] formed by the melting of sediments -> 
+
+----------------------------------------
+
+Question 3: Using a calendar year as an analogy to the geologic time scale, when do the oldest anatomically modern humans appear on Earth?
+Type: multiple_choice_question
+Answers:
+  [ ] The oldest human fossils show up when animals and plants move out of the sea and onto land in late November. -> 
+  [ ] The oldest human fossils appear in mid-November, which is the beginning of the Phanerozoic Eon. -> 
+  [ ] The oldest human fossils are found in late March, which represents the Precambrian on the geologic time scale. -> 
+  [x] (Selected) The oldest human fossils show up at about eleven minutes to midnight on December 31st. -> 
+
+----------------------------------------
+
+Question 4: Since temperatures in Earth increase with depth, why is the inner core solid?
+Type: multiple_choice_question
+Answers:
+  [ ] Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> 
+  [ ] The inner core is shedding the heat so quickly that melting does not have time to occur. -> 
+  [ ] Temperatures increase to a certain point before leveling off below the melting point of the core. -> 
+  [x] (Selected) The pressures in the core are immense and keep it in a solid state despite the temperature. -> 
+
+----------------------------------------
+
+Question 5: How old is the Solar System?
+Type: multiple_choice_question
+Answers:
+  [x] (Selected) 13 billion years old -> 
+  [ ] 4.6 billion years old -> 
+  [ ] 4.6 million years old -> 
+  [ ] 13 million years old -> 
+
+----------------------------------------
+
+Question 6: What is Uniformitarianism?
+Type: multiple_choice_question
+Answers:
+  [ ] the idea that Earth's landscapes are shaped primarily by great catastrophic events that have always occurred -> 
+  [ ] the idea that Plate Tectonic Theory has been uniformly occurring for all of geologic history -> 
+  [ ] the idea that the Earth is 4.6 billion years old -> 
+  [x] (Selected) the idea that the present is key to the past since physical, chemical, and biological processes that operate today have also operated in the geologic past -> 
+
+----------------------------------------
+
+Question 7: The ________ is the most widely accepted view of the origin of our solar system. This describes the beginning of the solar system as a large cloud of space gas and dust that slowly condensed and contracted, forming the current solar system.
+Type: multiple_choice_question
+Answers:
+  [ ] The Theory of Plate Tectonics -> 
+  [ ] The Neutron Theory -> 
+  [ ] The Big Bang Theory -> 
+  [x] (Selected) The Nebular Threory -> 
+
+----------------------------------------
+
+Question 8: Earth's lithosphere includes which of the following (select all that apply):
+Type: multiple_answers_question
+Answers:
+  [ ] asthenosphere -> 
+  [ ] lower mantle -> 
+  [x] (Selected) crust -> Your Answer: (You left this blank)
+  [x] (Selected) upper mantle -> Your Answer: (You left this blank)
+  [ ] transition zone -> 
+
+----------------------------------------
+
+Question 9: Label each of the following as a process that occurs (1) at Earth's surface, (2) in Earth's shallow subsurface, or (3) in Earth's deep subsurface: [ Select ] ["surface", "shallow subsurface", "deep subsurface"] sediment undergoing lithification [ Select ] ["shallow subsurface", "surface", "deep subsurface"] rock melting [ Select ] ["shallow subsurface", "surface", "deep subsurface"] lava crystallizing
+Type: multiple_dropdowns_question
+Dropdown Options:
+  - surface, shallow subsurface, deep subsurface
+  - shallow subsurface, surface, deep subsurface
+  - shallow subsurface, surface, deep subsurface
+Answers:
+  [ ] surface -> 
+  [x] (Selected) shallow subsurface -> 
+  [ ] deep subsurface -> 
+
+----------------------------------------
+
+Question 10: Oceanic crust is _________ than continental crust.
+Type: multiple_choice_question
+Answers:
+  [ ] higher -> 
+  [ ] less dense -> 
+  [x] (Selected) denser -> 
+  [ ] thicker -> 
+
+----------------------------------------
+
+Question 11: The "Big Bang" describes the formation of the Universe and is estimated to have occurred between 10 billion and 15 billion years ago .
+Type: multiple_dropdowns_question
+Answers:
+  [ ] the destruction of time and space -> 
+  [x] (Selected) the formation of the Universe -> 
+  [ ] the formation of our Solar System -> 
+  [ ] a TV sitcom -> 
+  [ ] between 2 billion and 5 billion years ago -> 
+  [ ] between 5,000 and 10,000 years ago -> 
+  [x] (Selected) between 10 billion and 15 billion years ago -> 
+  [ ] between 250 million and 400 million years ago -> 
+
+----------------------------------------
+

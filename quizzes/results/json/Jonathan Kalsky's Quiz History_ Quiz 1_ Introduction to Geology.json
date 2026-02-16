@@ -1,0 +1,312 @@
+[
+    {
+        "question_number": "Question 1",
+        "question_id": "6214",
+        "question_type": "multiple_choice_question",
+        "question_text": "The Earth's magnetic field is generated where?",
+        "answers": [
+            {
+                "text": "Earth's atmosphere -> ",
+                "match_pair": "Earth's atmosphere -> "
+            },
+            {
+                "text": "Earth's mantle -> ",
+                "match_pair": "Earth's mantle -> "
+            },
+            {
+                "is_selected": true,
+                "text": "Earth's core -> ",
+                "match_pair": "Earth's core -> "
+            },
+            {
+                "text": "the Sun -> ",
+                "match_pair": "the Sun -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 2",
+        "question_id": "7795",
+        "question_type": "multiple_choice_question",
+        "question_text": "Which of the following describes metamorphic rocks?",
+        "answers": [
+            {
+                "text": "formed by the lithification of pre-existing rock fragments -> ",
+                "match_pair": "formed by the lithification of pre-existing rock fragments -> "
+            },
+            {
+                "text": "formed by the cooling and crystallization of a magma or lava -> ",
+                "match_pair": "formed by the cooling and crystallization of a magma or lava -> "
+            },
+            {
+                "is_selected": true,
+                "text": "formed by the heating and squeezing of pre-existing rock -> ",
+                "match_pair": "formed by the heating and squeezing of pre-existing rock -> "
+            },
+            {
+                "text": "formed by the melting of sediments -> ",
+                "match_pair": "formed by the melting of sediments -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 3",
+        "question_id": "1649",
+        "question_type": "multiple_choice_question",
+        "question_text": "Using a calendar year as an analogy to the geologic time scale, when do the oldest anatomically modern humans appear on Earth?",
+        "answers": [
+            {
+                "text": "The oldest human fossils show up when animals and plants move out of the sea and onto land in late November. -> ",
+                "match_pair": "The oldest human fossils show up when animals and plants move out of the sea and onto land in late November. -> "
+            },
+            {
+                "text": "The oldest human fossils appear in mid-November, which is the beginning of the Phanerozoic Eon. -> ",
+                "match_pair": "The oldest human fossils appear in mid-November, which is the beginning of the Phanerozoic Eon. -> "
+            },
+            {
+                "text": "The oldest human fossils are found in late March, which represents the Precambrian on the geologic time scale. -> ",
+                "match_pair": "The oldest human fossils are found in late March, which represents the Precambrian on the geologic time scale. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The oldest human fossils show up at about eleven minutes to midnight on December 31st. -> ",
+                "match_pair": "The oldest human fossils show up at about eleven minutes to midnight on December 31st. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 4",
+        "question_id": "8169",
+        "question_type": "multiple_choice_question",
+        "question_text": "Since temperatures in Earth increase with depth, why is the inner core solid?",
+        "answers": [
+            {
+                "text": "Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> ",
+                "match_pair": "Earth's interior does not reach temperatures high enough to melt the material of the inner core. -> "
+            },
+            {
+                "text": "The inner core is shedding the heat so quickly that melting does not have time to occur. -> ",
+                "match_pair": "The inner core is shedding the heat so quickly that melting does not have time to occur. -> "
+            },
+            {
+                "text": "Temperatures increase to a certain point before leveling off below the melting point of the core. -> ",
+                "match_pair": "Temperatures increase to a certain point before leveling off below the melting point of the core. -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The pressures in the core are immense and keep it in a solid state despite the temperature. -> ",
+                "match_pair": "The pressures in the core are immense and keep it in a solid state despite the temperature. -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 5",
+        "question_id": "3275",
+        "question_type": "multiple_choice_question",
+        "question_text": "How old is the Solar System?",
+        "answers": [
+            {
+                "is_selected": true,
+                "text": "13 billion years old -> ",
+                "match_pair": "13 billion years old -> "
+            },
+            {
+                "text": "4.6 billion years old -> ",
+                "match_pair": "4.6 billion years old -> "
+            },
+            {
+                "text": "4.6 million years old -> ",
+                "match_pair": "4.6 million years old -> "
+            },
+            {
+                "text": "13 million years old -> ",
+                "match_pair": "13 million years old -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 6",
+        "question_id": "8236",
+        "question_type": "multiple_choice_question",
+        "question_text": "What is Uniformitarianism?",
+        "answers": [
+            {
+                "text": "the idea that Earth's landscapes are shaped primarily by great catastrophic events that have always occurred -> ",
+                "match_pair": "the idea that Earth's landscapes are shaped primarily by great catastrophic events that have always occurred -> "
+            },
+            {
+                "text": "the idea that Plate Tectonic Theory has been uniformly occurring for all of geologic history -> ",
+                "match_pair": "the idea that Plate Tectonic Theory has been uniformly occurring for all of geologic history -> "
+            },
+            {
+                "text": "the idea that the Earth is 4.6 billion years old -> ",
+                "match_pair": "the idea that the Earth is 4.6 billion years old -> "
+            },
+            {
+                "is_selected": true,
+                "text": "the idea that the present is key to the past since physical, chemical, and biological processes that operate today have also operated in the geologic past -> ",
+                "match_pair": "the idea that the present is key to the past since physical, chemical, and biological processes that operate today have also operated in the geologic past -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 7",
+        "question_id": "2784",
+        "question_type": "multiple_choice_question",
+        "question_text": "The ________ is the most widely accepted view of the origin of our solar system. This describes the beginning of the solar system as a large cloud of space gas and dust that slowly condensed and contracted, forming the current solar system.",
+        "answers": [
+            {
+                "text": "The Theory of Plate Tectonics -> ",
+                "match_pair": "The Theory of Plate Tectonics -> "
+            },
+            {
+                "text": "The Neutron Theory -> ",
+                "match_pair": "The Neutron Theory -> "
+            },
+            {
+                "text": "The Big Bang Theory -> ",
+                "match_pair": "The Big Bang Theory -> "
+            },
+            {
+                "is_selected": true,
+                "text": "The Nebular Threory -> ",
+                "match_pair": "The Nebular Threory -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 8",
+        "question_id": "5138",
+        "question_type": "multiple_answers_question",
+        "question_text": "Earth's lithosphere includes which of the following (select all that apply):",
+        "answers": [
+            {
+                "text": "asthenosphere -> ",
+                "match_pair": "asthenosphere -> "
+            },
+            {
+                "text": "lower mantle -> ",
+                "match_pair": "lower mantle -> "
+            },
+            {
+                "is_selected": true,
+                "text": "crust -> Your Answer: (You left this blank)",
+                "match_pair": "crust -> Your Answer: (You left this blank)"
+            },
+            {
+                "is_selected": true,
+                "text": "upper mantle -> Your Answer: (You left this blank)",
+                "match_pair": "upper mantle -> Your Answer: (You left this blank)"
+            },
+            {
+                "text": "transition zone -> ",
+                "match_pair": "transition zone -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 9",
+        "question_id": "6081",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "Label each of the following as a process that occurs (1) at Earth's surface, (2) in Earth's shallow subsurface, or (3) in Earth's deep subsurface: [ Select ] [\"surface\", \"shallow subsurface\", \"deep subsurface\"] sediment undergoing lithification [ Select ] [\"shallow subsurface\", \"surface\", \"deep subsurface\"] rock melting [ Select ] [\"shallow subsurface\", \"surface\", \"deep subsurface\"] lava crystallizing",
+        "dropdown_options": [
+            [
+                "surface",
+                "shallow subsurface",
+                "deep subsurface"
+            ],
+            [
+                "shallow subsurface",
+                "surface",
+                "deep subsurface"
+            ],
+            [
+                "shallow subsurface",
+                "surface",
+                "deep subsurface"
+            ]
+        ],
+        "answers": [
+            {
+                "text": "surface -> ",
+                "match_pair": "surface -> "
+            },
+            {
+                "is_selected": true,
+                "text": "shallow subsurface -> ",
+                "match_pair": "shallow subsurface -> "
+            },
+            {
+                "text": "deep subsurface -> ",
+                "match_pair": "deep subsurface -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 10",
+        "question_id": "7443",
+        "question_type": "multiple_choice_question",
+        "question_text": "Oceanic crust is _________ than continental crust.",
+        "answers": [
+            {
+                "text": "higher -> ",
+                "match_pair": "higher -> "
+            },
+            {
+                "text": "less dense -> ",
+                "match_pair": "less dense -> "
+            },
+            {
+                "is_selected": true,
+                "text": "denser -> ",
+                "match_pair": "denser -> "
+            },
+            {
+                "text": "thicker -> ",
+                "match_pair": "thicker -> "
+            }
+        ]
+    },
+    {
+        "question_number": "Question 11",
+        "question_id": "1479",
+        "question_type": "multiple_dropdowns_question",
+        "question_text": "The \"Big Bang\" describes the formation of the Universe and is estimated to have occurred between 10 billion and 15 billion years ago .",
+        "answers": [
+            {
+                "text": "the destruction of time and space -> ",
+                "match_pair": "the destruction of time and space -> "
+            },
+            {
+                "is_selected": true,
+                "text": "the formation of the Universe -> ",
+                "match_pair": "the formation of the Universe -> "
+            },
+            {
+                "text": "the formation of our Solar System -> ",
+                "match_pair": "the formation of our Solar System -> "
+            },
+            {
+                "text": "a TV sitcom -> ",
+                "match_pair": "a TV sitcom -> "
+            },
+            {
+                "text": "between 2 billion and 5 billion years ago -> ",
+                "match_pair": "between 2 billion and 5 billion years ago -> "
+            },
+            {
+                "text": "between 5,000 and 10,000 years ago -> ",
+                "match_pair": "between 5,000 and 10,000 years ago -> "
+            },
+            {
+                "is_selected": true,
+                "text": "between 10 billion and 15 billion years ago -> ",
+                "match_pair": "between 10 billion and 15 billion years ago -> "
+            },
+            {
+                "text": "between 250 million and 400 million years ago -> ",
+                "match_pair": "between 250 million and 400 million years ago -> "
+            }
+        ]
+    }
+]
