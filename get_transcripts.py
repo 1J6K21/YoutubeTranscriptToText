@@ -71,6 +71,7 @@ def process_videos(input_file, output_txt, output_md, open_mode='w'):
 
     for line in lines:
         line = line.strip()
+        # Takes care of multiple empty lines/newlines by skipping them
         if not line:
             continue
 
@@ -117,73 +118,56 @@ def process_videos(input_file, output_txt, output_md, open_mode='w'):
         
     print(f"Done! Saved to {output_txt} and {output_md}")
 
-def select_file(extension):
-    files = glob.glob(f"*{extension}")
-    if not files:
-        return None
-        
-    print(f"\nSelect a {extension} file:")
-    for i, file in enumerate(files):
+def select_input_file():
+    txt_files = glob.glob("*.txt")
+    if not txt_files:
+        return input("No .txt files found. Enter input filename: ").strip()
+    
+    print("\nSelect input file containing video URLs:")
+    for i, file in enumerate(txt_files):
         print(f"{i + 1}. {file}")
-    print(f"{len(files) + 1}. Create new file")
     
     while True:
         try:
-            choice = int(input("Enter number: "))
-            if 1 <= choice <= len(files):
-                return files[choice - 1]
-            elif choice == len(files) + 1:
-                return input("Enter new filename: ").strip()
-            else:
-                print("Invalid choice.")
-        except ValueError:
-            print("Please enter a number.")
+            choice = input(f"Enter number (1-{len(txt_files)}) or filename: ")
+            if choice.isdigit() and 1 <= int(choice) <= len(txt_files):
+                return txt_files[int(choice) - 1]
+            else: 
+                 # Allow typing filename
+                 return choice.strip()
+        except:
+            pass
 
 def cli():
     print("=== YouTube Transcript Fetcher CLI ===")
     
     # 1. Input Videos File
-    print("\nSelect input file containing video URLs:")
-    txt_files = glob.glob("*.txt")
-    if not txt_files:
-        video_file = input("No .txt files found. Enter input filename: ").strip()
-    else:
-        for i, file in enumerate(txt_files):
-            print(f"{i + 1}. {file}")
-        
-        while True:
-            try:
-                choice = input(f"Enter number (1-{len(txt_files)}) or filename: ")
-                if choice.isdigit() and 1 <= int(choice) <= len(txt_files):
-                    video_file = txt_files[int(choice) - 1]
-                    break
-                else: 
-                     # Allow typing filename
-                     video_file = choice.strip()
-                     break
-            except:
-                pass
+    video_file = select_input_file()
 
-    # Create output directory
-    output_dir = "processed_data"
-    if not os.path.exists(output_dir):
-        os.makedirs(output_dir)
+    # Create output directories
+    base_output_dir = "transcripts"
+    md_dir = os.path.join(base_output_dir, "markdown")
+    txt_dir = os.path.join(base_output_dir, "txt")
 
-    # 2. Output MD File
-    print("\nSelect Output Markdown file:")
-    output_md = select_file(".md")
-    if not output_md:
-       output_md = input(f"Enter output markdown filename (default: {output_dir}/results.md): ").strip()
-       if not output_md:
-           output_md = os.path.join(output_dir, "results.md")
+    if not os.path.exists(md_dir):
+        os.makedirs(md_dir)
+    if not os.path.exists(txt_dir):
+        os.makedirs(txt_dir)
 
-    # 3. Output TXT File
-    print("\nSelect Output Text file:")
-    output_txt = select_file(".txt") 
-    if not output_txt:
-        output_txt = input(f"Enter output text filename (default: {output_dir}/full_transcripts.txt): ").strip()
-        if not output_txt:
-            output_txt = os.path.join(output_dir, "full_transcripts.txt")
+    # 2. Output Filename
+    print("\nEnter output filename (WITHOUT extension):")
+    print("Example: 'module_1' (will create transcripts/markdown/module_1.md and transcripts/txt/module_1.txt)")
+    base_name = input("Filename: ").strip()
+    
+    # Strip extension if user accidentally added one
+    if base_name.endswith(".txt") or base_name.endswith(".md"):
+        base_name = os.path.splitext(base_name)[0]
+    
+    if not base_name:
+        base_name = "transcripts" # Default
+
+    output_md = os.path.join(md_dir, f"{base_name}.md")
+    output_txt = os.path.join(txt_dir, f"{base_name}.txt")
 
     # 4. Mode
     mode = 'w'
