@@ -164,7 +164,6 @@ def main():
     print("1. File")
     print("2. Directory (parse all .txt/.html files)")
     choice = input("Enter choice (1 or 2): ").strip()
-    
     input_files = []
     if choice == '1':
         # List files
@@ -178,7 +177,7 @@ def main():
              print("Invalid selection.")
              return
     elif choice == '2':
-        input_dir = input("Enter directory path (default: current): ").strip() or "."
+        input_dir = input("Enter directory path (default: current): ").strip().strip('"') or "."
         if os.path.isdir(input_dir):
             input_files = glob.glob(os.path.join(input_dir, "*.txt")) + glob.glob(os.path.join(input_dir, "*.html"))
         else:
